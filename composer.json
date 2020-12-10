@@ -1,0 +1,11 @@
+{
+    "name": "nebula/nebula-framework",
+    "description": "PHP MVC Framework with React",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Nebula\\": ".framework/",
+            "App\\": "src/"
+        }
+    }
+}

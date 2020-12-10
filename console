@@ -1,0 +1,6 @@
+<?php
+
+require_once './vendor/autoload.php';
+
+$cli = new Nebula\CLI();
+$cli->run();

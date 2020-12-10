@@ -1,0 +1,1854 @@
+[Thu Dec 10 22:11:11 2020] PHP 8.0.0 Development Server (http://localhost:8000) started
+[Thu Dec 10 22:11:14 2020] [::1]:58043 Accepted
+[Thu Dec 10 22:11:14 2020] [::1]:58044 Accepted
+[Thu Dec 10 22:11:14 2020] PHP Warning:  file_get_contents(D:\Files\Documents\Programs\Nebula/app/views/template.html): Failed to open stream: No such file or directory in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 70
+[Thu Dec 10 22:11:14 2020] [::1]:58043 [200]: GET /
+[Thu Dec 10 22:11:14 2020] [::1]:58043 Closing
+[Thu Dec 10 22:12:09 2020] [::1]:58052 Accepted
+[Thu Dec 10 22:12:09 2020] PHP Warning:  file_get_contents(D:\Files\Documents\Programs\Nebula/app/views/template.html): Failed to open stream: No such file or directory in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 70
+[Thu Dec 10 22:12:09 2020] [::1]:58044 [200]: GET /
+[Thu Dec 10 22:12:09 2020] [::1]:58044 Closing
+[Thu Dec 10 22:12:10 2020] [::1]:58053 Accepted
+[Thu Dec 10 22:12:11 2020] [::1]:58054 Accepted
+[Thu Dec 10 22:12:11 2020] PHP Warning:  file_get_contents(D:\Files\Documents\Programs\Nebula/app/views/template.html): Failed to open stream: No such file or directory in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 70
+[Thu Dec 10 22:12:11 2020] [::1]:58052 [200]: GET /
+[Thu Dec 10 22:12:11 2020] [::1]:58052 Closing
+[Thu Dec 10 22:12:11 2020] PHP Warning:  file_get_contents(D:\Files\Documents\Programs\Nebula/app/views/template.html): Failed to open stream: No such file or directory in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 70
+[Thu Dec 10 22:12:11 2020] [::1]:58053 [200]: GET /
+[Thu Dec 10 22:12:11 2020] [::1]:58053 Closing
+[Thu Dec 10 22:12:11 2020] [::1]:58055 Accepted
+[Thu Dec 10 22:12:11 2020] PHP Warning:  file_get_contents(D:\Files\Documents\Programs\Nebula/app/views/template.html): Failed to open stream: No such file or directory in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 70
+[Thu Dec 10 22:12:11 2020] [::1]:58054 [200]: GET /
+[Thu Dec 10 22:12:11 2020] [::1]:58054 Closing
+[Thu Dec 10 22:12:27 2020] [::1]:58058 Accepted
+[Thu Dec 10 22:12:27 2020] [::1]:58055 [200]: GET /
+[Thu Dec 10 22:12:27 2020] [::1]:58055 Closing
+[Thu Dec 10 22:12:27 2020] [::1]:58058 [404]: GET /client.js - No such file or directory
+[Thu Dec 10 22:12:27 2020] [::1]:58058 Closing
+[Thu Dec 10 22:12:28 2020] [::1]:58059 Accepted
+[Thu Dec 10 22:12:28 2020] [::1]:58060 Accepted
+[Thu Dec 10 22:12:28 2020] [::1]:58059 [200]: GET /
+[Thu Dec 10 22:12:28 2020] [::1]:58059 Closing
+[Thu Dec 10 22:12:28 2020] [::1]:58060 [404]: GET /client.js - No such file or directory
+[Thu Dec 10 22:12:28 2020] [::1]:58060 Closing
+[Thu Dec 10 22:13:19 2020] [::1]:58071 Accepted
+[Thu Dec 10 22:13:19 2020] [::1]:58072 Accepted
+[Thu Dec 10 22:13:19 2020] [::1]:58071 [200]: GET /
+[Thu Dec 10 22:13:19 2020] [::1]:58071 Closing
+[Thu Dec 10 22:13:19 2020] [::1]:58072 [404]: GET /client.js - No such file or directory
+[Thu Dec 10 22:13:19 2020] [::1]:58072 Closing
+[Thu Dec 10 22:13:22 2020] [::1]:58074 Accepted
+[Thu Dec 10 22:13:22 2020] [::1]:58075 Accepted
+[Thu Dec 10 22:13:22 2020] [::1]:58074 [200]: GET /
+[Thu Dec 10 22:13:22 2020] [::1]:58074 Closing
+[Thu Dec 10 22:13:22 2020] [::1]:58075 [404]: GET /client.js - No such file or directory
+[Thu Dec 10 22:13:22 2020] [::1]:58075 Closing
+[Thu Dec 10 22:16:58 2020] [::1]:58280 Accepted
+[Thu Dec 10 22:16:58 2020] [::1]:58281 Accepted
+[Thu Dec 10 22:16:58 2020] [::1]:58280 [200]: GET /
+[Thu Dec 10 22:16:58 2020] [::1]:58280 Closing
+[Thu Dec 10 22:16:58 2020] [::1]:58281 [404]: GET /client.js - No such file or directory
+[Thu Dec 10 22:16:58 2020] [::1]:58281 Closing
+[Thu Dec 10 22:17:35 2020] [::1]:58304 Accepted
+[Thu Dec 10 22:17:35 2020] [::1]:58305 Accepted
+[Thu Dec 10 22:17:35 2020] [::1]:58304 [200]: GET /template.html
+[Thu Dec 10 22:17:35 2020] [::1]:58304 Closing
+[Thu Dec 10 22:17:35 2020] [::1]:58305 [404]: GET /client.js - No such file or directory
+[Thu Dec 10 22:17:35 2020] [::1]:58305 Closing
+[Thu Dec 10 22:17:38 2020] [::1]:58306 Accepted
+[Thu Dec 10 22:17:38 2020] [::1]:58307 Accepted
+[Thu Dec 10 22:17:38 2020] [::1]:58306 [200]: GET /template.html
+[Thu Dec 10 22:17:38 2020] [::1]:58306 Closing
+[Thu Dec 10 22:17:38 2020] [::1]:58307 [404]: GET /client.js - No such file or directory
+[Thu Dec 10 22:17:38 2020] [::1]:58307 Closing
+[Thu Dec 10 22:18:14 2020] [::1]:58363 Accepted
+[Thu Dec 10 22:18:14 2020] [::1]:58364 Accepted
+[Thu Dec 10 22:18:14 2020] [::1]:58363 [404]: GET /template.html - No such file or directory
+[Thu Dec 10 22:18:14 2020] [::1]:58363 Closing
+[Thu Dec 10 22:18:16 2020] [::1]:58366 Accepted
+[Thu Dec 10 22:18:16 2020] [::1]:58364 [200]: GET /
+[Thu Dec 10 22:18:16 2020] [::1]:58364 Closing
+[Thu Dec 10 22:18:17 2020] [::1]:58366 [404]: GET /client.bundle.js - No such file or directory
+[Thu Dec 10 22:18:17 2020] [::1]:58366 Closing
+[Thu Dec 10 22:18:19 2020] [::1]:58369 Accepted
+[Thu Dec 10 22:18:19 2020] [::1]:58370 Accepted
+[Thu Dec 10 22:18:19 2020] [::1]:58369 [200]: GET /
+[Thu Dec 10 22:18:19 2020] [::1]:58369 Closing
+[Thu Dec 10 22:18:19 2020] [::1]:58370 [404]: GET /client.bundle.js - No such file or directory
+[Thu Dec 10 22:18:19 2020] [::1]:58370 Closing
+[Thu Dec 10 22:23:31 2020] [::1]:58631 Accepted
+[Thu Dec 10 22:23:31 2020] [::1]:58632 Accepted
+[Thu Dec 10 22:23:31 2020] [::1]:58631 [200]: GET /
+[Thu Dec 10 22:23:31 2020] [::1]:58631 Closing
+[Thu Dec 10 22:23:31 2020] [::1]:58632 [200]: GET /client.bundle.js
+[Thu Dec 10 22:23:31 2020] [::1]:58632 Closing
+[Thu Dec 10 22:23:32 2020] [::1]:58633 Accepted
+[Thu Dec 10 22:23:32 2020] [::1]:58633 [200]: GET /747c10472d8cec4e88272e7d01ffea6e.png
+[Thu Dec 10 22:23:32 2020] [::1]:58633 Closing
+[Thu Dec 10 22:26:54 2020] [::1]:58736 Accepted
+[Thu Dec 10 22:26:54 2020] [::1]:58737 Accepted
+[Thu Dec 10 22:26:54 2020] [::1]:58736 [200]: GET /
+[Thu Dec 10 22:26:54 2020] [::1]:58736 Closing
+[Thu Dec 10 22:26:54 2020] [::1]:58737 [200]: GET /client.bundle.js
+[Thu Dec 10 22:26:54 2020] [::1]:58737 Closing
+[Thu Dec 10 22:26:54 2020] [::1]:58738 Accepted
+[Thu Dec 10 22:26:54 2020] [::1]:58738 [200]: GET /fcd84a0f4ef73afcd2284d15fe65d189.png
+[Thu Dec 10 22:26:54 2020] [::1]:58738 Closing
+[Thu Dec 10 22:27:30 2020] [::1]:58756 Accepted
+[Thu Dec 10 22:27:30 2020] [::1]:58757 Accepted
+[Thu Dec 10 22:27:30 2020] [::1]:58756 [200]: GET /
+[Thu Dec 10 22:27:30 2020] [::1]:58756 Closing
+[Thu Dec 10 22:27:30 2020] [::1]:58757 [200]: GET /client.bundle.js
+[Thu Dec 10 22:27:30 2020] [::1]:58757 Closing
+[Thu Dec 10 22:27:30 2020] [::1]:58758 Accepted
+[Thu Dec 10 22:27:30 2020] [::1]:58758 [200]: GET /fcd84a0f4ef73afcd2284d15fe65d189.png
+[Thu Dec 10 22:27:30 2020] [::1]:58758 Closing
+[Thu Dec 10 22:27:45 2020] [::1]:58769 Accepted
+[Thu Dec 10 22:27:45 2020] [::1]:58770 Accepted
+[Thu Dec 10 22:27:45 2020] [::1]:58769 [200]: GET /
+[Thu Dec 10 22:27:45 2020] [::1]:58769 Closing
+[Thu Dec 10 22:27:45 2020] [::1]:58770 [200]: GET /client.bundle.js
+[Thu Dec 10 22:27:45 2020] [::1]:58770 Closing
+[Thu Dec 10 22:27:45 2020] [::1]:58771 Accepted
+[Thu Dec 10 22:27:45 2020] [::1]:58771 [200]: GET /fcd84a0f4ef73afcd2284d15fe65d189.png
+[Thu Dec 10 22:27:45 2020] [::1]:58771 Closing
+[Thu Dec 10 22:29:19 2020] [::1]:58831 Accepted
+[Thu Dec 10 22:29:19 2020] [::1]:58832 Accepted
+[Thu Dec 10 22:29:19 2020] [::1]:58831 [200]: GET /api
+[Thu Dec 10 22:29:19 2020] [::1]:58831 Closing
+[Thu Dec 10 22:30:23 2020] [::1]:58832 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Dec 10 22:30:23 2020] [::1]:58832 Closing
+[Thu Dec 10 22:35:19 2020] [::1]:59084 Accepted
+[Thu Dec 10 22:35:19 2020] [::1]:59085 Accepted
+[Thu Dec 10 22:35:19 2020] [::1]:59084 [200]: GET /api
+[Thu Dec 10 22:35:19 2020] [::1]:59084 Closing
+[Thu Dec 10 22:40:47 2020] [::1]:59085 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Dec 10 22:40:47 2020] [::1]:59085 Closing
+[Thu Dec 10 22:43:24 2020] [::1]:59447 Accepted
+[Thu Dec 10 22:43:24 2020] [::1]:59448 Accepted
+[Thu Dec 10 22:43:24 2020] [::1]:59447 [200]: GET /api
+[Thu Dec 10 22:43:24 2020] [::1]:59447 Closing
+[Thu Dec 10 22:43:25 2020] [::1]:59449 Accepted
+[Thu Dec 10 22:43:25 2020] [::1]:59448 [200]: GET /
+[Thu Dec 10 22:43:25 2020] [::1]:59448 Closing
+[Thu Dec 10 22:43:26 2020] [::1]:59449 [200]: GET /client.bundle.js
+[Thu Dec 10 22:43:26 2020] [::1]:59449 Closing
+[Thu Dec 10 22:43:26 2020] [::1]:59451 Accepted
+[Thu Dec 10 22:43:26 2020] [::1]:59451 [200]: GET /fcd84a0f4ef73afcd2284d15fe65d189.png
+[Thu Dec 10 22:43:26 2020] [::1]:59451 Closing
+[Thu Dec 10 22:44:00 2020] [::1]:59472 Accepted
+[Thu Dec 10 22:44:00 2020] [::1]:59473 Accepted
+[Thu Dec 10 22:44:00 2020] [::1]:59472 [200]: GET /
+[Thu Dec 10 22:44:00 2020] [::1]:59472 Closing
+[Thu Dec 10 22:44:00 2020] [::1]:59473 [200]: GET /client.bundle.js
+[Thu Dec 10 22:44:00 2020] [::1]:59473 Closing
+[Thu Dec 10 22:44:00 2020] [::1]:59474 Accepted
+[Thu Dec 10 22:44:00 2020] [::1]:59474 [200]: GET /fcd84a0f4ef73afcd2284d15fe65d189.png
+[Thu Dec 10 22:44:00 2020] [::1]:59474 Closing
+[Thu Dec 10 22:45:02 2020] [::1]:59510 Accepted
+[Thu Dec 10 22:45:02 2020] [::1]:59511 Accepted
+[Thu Dec 10 22:45:02 2020] [::1]:59510 [200]: GET /
+[Thu Dec 10 22:45:02 2020] [::1]:59510 Closing
+[Thu Dec 10 22:45:02 2020] [::1]:59511 [200]: GET /client.bundle.js
+[Thu Dec 10 22:45:02 2020] [::1]:59511 Closing
+[Thu Dec 10 22:45:02 2020] [::1]:59512 Accepted
+[Thu Dec 10 22:45:02 2020] [::1]:59512 [200]: GET /fcd84a0f4ef73afcd2284d15fe65d189.png
+[Thu Dec 10 22:45:02 2020] [::1]:59512 Closing
+[Thu Dec 10 22:45:46 2020] [::1]:59538 Accepted
+[Thu Dec 10 22:45:46 2020] [::1]:59539 Accepted
+[Thu Dec 10 22:45:47 2020] [::1]:59538 [200]: GET /
+[Thu Dec 10 22:45:47 2020] [::1]:59538 Closing
+[Thu Dec 10 22:45:47 2020] [::1]:59539 [200]: GET /client.bundle.js
+[Thu Dec 10 22:45:47 2020] [::1]:59539 Closing
+[Thu Dec 10 22:45:47 2020] [::1]:59541 Accepted
+[Thu Dec 10 22:45:47 2020] [::1]:59541 [200]: GET /fcd84a0f4ef73afcd2284d15fe65d189.png
+[Thu Dec 10 22:45:47 2020] [::1]:59541 Closing
+[Thu Dec 10 22:45:58 2020] [::1]:59549 Accepted
+[Thu Dec 10 22:45:58 2020] [::1]:59550 Accepted
+[Thu Dec 10 22:45:58 2020] [::1]:59549 [200]: GET /
+[Thu Dec 10 22:45:58 2020] [::1]:59549 Closing
+[Thu Dec 10 22:45:58 2020] [::1]:59550 [200]: GET /client.bundle.js
+[Thu Dec 10 22:45:58 2020] [::1]:59550 Closing
+[Thu Dec 10 22:45:58 2020] [::1]:59551 Accepted
+[Thu Dec 10 22:45:58 2020] [::1]:59551 [200]: GET /fcd84a0f4ef73afcd2284d15fe65d189.png
+[Thu Dec 10 22:45:58 2020] [::1]:59551 Closing
+[Thu Dec 10 22:46:11 2020] [::1]:59561 Accepted
+[Thu Dec 10 22:46:11 2020] [::1]:59562 Accepted
+[Thu Dec 10 22:46:11 2020] [::1]:59561 [200]: GET /api
+[Thu Dec 10 22:46:11 2020] [::1]:59561 Closing
+[Thu Dec 10 22:46:12 2020] [::1]:59563 Accepted
+[Thu Dec 10 22:46:12 2020] [::1]:59562 [200]: GET /api
+[Thu Dec 10 22:46:12 2020] [::1]:59562 Closing
+[Thu Dec 10 22:46:14 2020] [::1]:59565 Accepted
+[Thu Dec 10 22:46:14 2020] [::1]:59563 [200]: GET /api
+[Thu Dec 10 22:46:14 2020] [::1]:59563 Closing
+[Thu Dec 10 22:46:17 2020] [::1]:59567 Accepted
+[Thu Dec 10 22:46:22 2020] [::1]:59565 [200]: GET /api
+[Thu Dec 10 22:46:22 2020] [::1]:59565 Closing
+[Thu Dec 10 22:47:26 2020] [::1]:59567 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Dec 10 22:47:26 2020] [::1]:59567 Closing
+[Thu Dec 10 22:48:15 2020] [::1]:59683 Accepted
+[Thu Dec 10 22:48:15 2020] [::1]:59684 Accepted
+[Thu Dec 10 22:48:15 2020] [::1]:59683 [200]: GET /api
+[Thu Dec 10 22:48:15 2020] [::1]:59683 Closing
+[Thu Dec 10 22:48:54 2020] [::1]:59763 Accepted
+[Thu Dec 10 22:48:54 2020] [::1]:59684 [200]: GET /
+[Thu Dec 10 22:48:54 2020] [::1]:59684 Closing
+[Thu Dec 10 22:48:54 2020] [::1]:59763 [200]: GET /client.bundle.js
+[Thu Dec 10 22:48:54 2020] [::1]:59763 Closing
+[Thu Dec 10 22:48:54 2020] [::1]:59764 Accepted
+[Thu Dec 10 22:48:54 2020] [::1]:59764 [200]: GET /fcd84a0f4ef73afcd2284d15fe65d189.png
+[Thu Dec 10 22:48:54 2020] [::1]:59764 Closing
+[Thu Dec 10 22:48:55 2020] [::1]:59767 Accepted
+[Thu Dec 10 22:48:55 2020] [::1]:59768 Accepted
+[Thu Dec 10 22:48:55 2020] [::1]:59767 [200]: GET /
+[Thu Dec 10 22:48:55 2020] [::1]:59767 Closing
+[Thu Dec 10 22:48:55 2020] [::1]:59768 [200]: GET /client.bundle.js
+[Thu Dec 10 22:48:55 2020] [::1]:59768 Closing
+[Thu Dec 10 22:48:55 2020] [::1]:59769 Accepted
+[Thu Dec 10 22:48:55 2020] [::1]:59769 [200]: GET /fcd84a0f4ef73afcd2284d15fe65d189.png
+[Thu Dec 10 22:48:55 2020] [::1]:59769 Closing
+[Thu Dec 10 22:48:55 2020] [::1]:59771 Accepted
+[Thu Dec 10 22:48:55 2020] [::1]:59772 Accepted
+[Thu Dec 10 22:48:55 2020] [::1]:59771 [200]: GET /
+[Thu Dec 10 22:48:55 2020] [::1]:59771 Closing
+[Thu Dec 10 22:48:55 2020] [::1]:59772 [200]: GET /client.bundle.js
+[Thu Dec 10 22:48:55 2020] [::1]:59772 Closing
+[Thu Dec 10 22:48:56 2020] [::1]:59773 Accepted
+[Thu Dec 10 22:48:56 2020] [::1]:59773 [200]: GET /fcd84a0f4ef73afcd2284d15fe65d189.png
+[Thu Dec 10 22:48:56 2020] [::1]:59773 Closing
+[Thu Dec 10 22:48:56 2020] [::1]:59774 Accepted
+[Thu Dec 10 22:48:56 2020] [::1]:59775 Accepted
+[Thu Dec 10 22:48:56 2020] [::1]:59774 [200]: GET /
+[Thu Dec 10 22:48:56 2020] [::1]:59774 Closing
+[Thu Dec 10 22:48:56 2020] [::1]:59775 [200]: GET /client.bundle.js
+[Thu Dec 10 22:48:56 2020] [::1]:59775 Closing
+[Thu Dec 10 22:48:56 2020] [::1]:59776 Accepted
+[Thu Dec 10 22:48:56 2020] [::1]:59776 [200]: GET /fcd84a0f4ef73afcd2284d15fe65d189.png
+[Thu Dec 10 22:48:56 2020] [::1]:59776 Closing
+[Thu Dec 10 22:48:56 2020] [::1]:59777 Accepted
+[Thu Dec 10 22:48:56 2020] [::1]:59778 Accepted
+[Thu Dec 10 22:48:56 2020] [::1]:59777 [200]: GET /
+[Thu Dec 10 22:48:56 2020] [::1]:59777 Closing
+[Thu Dec 10 22:48:56 2020] [::1]:59778 [200]: GET /client.bundle.js
+[Thu Dec 10 22:48:56 2020] [::1]:59778 Closing
+[Thu Dec 10 22:48:56 2020] [::1]:59779 Accepted
+[Thu Dec 10 22:48:56 2020] [::1]:59779 [200]: GET /fcd84a0f4ef73afcd2284d15fe65d189.png
+[Thu Dec 10 22:48:56 2020] [::1]:59779 Closing
+[Thu Dec 10 22:48:56 2020] [::1]:59780 Accepted
+[Thu Dec 10 22:48:56 2020] [::1]:59781 Accepted
+[Thu Dec 10 22:48:57 2020] [::1]:59780 [200]: GET /
+[Thu Dec 10 22:48:57 2020] [::1]:59780 Closing
+[Thu Dec 10 22:48:57 2020] [::1]:59781 [200]: GET /client.bundle.js
+[Thu Dec 10 22:48:57 2020] [::1]:59781 Closing
+[Thu Dec 10 22:48:57 2020] [::1]:59782 Accepted
+[Thu Dec 10 22:48:57 2020] [::1]:59782 [200]: GET /fcd84a0f4ef73afcd2284d15fe65d189.png
+[Thu Dec 10 22:48:57 2020] [::1]:59782 Closing
+[Thu Dec 10 22:53:28 2020] [::1]:59946 Accepted
+[Thu Dec 10 22:53:28 2020] [::1]:59947 Accepted
+[Thu Dec 10 22:53:28 2020] [::1]:59946 [200]: GET /
+[Thu Dec 10 22:53:28 2020] [::1]:59946 Closing
+[Thu Dec 10 22:53:28 2020] [::1]:59947 [200]: GET /client.bundle.js
+[Thu Dec 10 22:53:28 2020] [::1]:59947 Closing
+[Thu Dec 10 22:53:28 2020] [::1]:59948 Accepted
+[Thu Dec 10 22:53:28 2020] [::1]:59948 [200]: GET /b2fba062c1c472f017db222ed8dc07ea.png
+[Thu Dec 10 22:53:28 2020] [::1]:59948 Closing
+[Thu Dec 10 22:55:37 2020] [::1]:60014 Accepted
+[Thu Dec 10 22:55:37 2020] [::1]:60015 Accepted
+[Thu Dec 10 22:55:37 2020] [::1]:60014 [200]: GET /
+[Thu Dec 10 22:55:37 2020] [::1]:60014 Closing
+[Thu Dec 10 22:55:37 2020] [::1]:60015 [200]: GET /client.bundle.js
+[Thu Dec 10 22:55:37 2020] [::1]:60015 Closing
+[Thu Dec 10 22:55:37 2020] [::1]:60016 Accepted
+[Thu Dec 10 22:55:37 2020] [::1]:60016 [200]: GET /b2fba062c1c472f017db222ed8dc07ea.png
+[Thu Dec 10 22:55:37 2020] [::1]:60016 Closing
+[Thu Dec 10 22:56:43 2020] [::1]:60057 Accepted
+[Thu Dec 10 22:56:43 2020] [::1]:60058 Accepted
+[Thu Dec 10 22:56:43 2020] [::1]:60057 [200]: GET /b2fba062c1c472f017db222ed8dc07ea.png
+[Thu Dec 10 22:56:43 2020] [::1]:60057 Closing
+[Thu Dec 10 22:56:46 2020] [::1]:60061 Accepted
+[Thu Dec 10 22:56:46 2020] [::1]:60058 [200]: GET /b2fba062c1c472f017db222ed8dc07ea.png
+[Thu Dec 10 22:56:46 2020] [::1]:60058 Closing
+[Thu Dec 10 22:58:09 2020] [::1]:60061 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Dec 10 22:58:09 2020] [::1]:60061 Closing
+[Thu Dec 10 23:00:29 2020] [::1]:60206 Accepted
+[Thu Dec 10 23:00:29 2020] [::1]:60207 Accepted
+[Thu Dec 10 23:00:29 2020] [::1]:60206 [200]: GET /
+[Thu Dec 10 23:00:29 2020] [::1]:60206 Closing
+[Thu Dec 10 23:00:29 2020] [::1]:60207 [200]: GET /client.bundle.js
+[Thu Dec 10 23:00:29 2020] [::1]:60207 Closing
+[Thu Dec 10 23:34:34 2020] [::1]:61670 Accepted
+[Thu Dec 10 23:34:34 2020] [::1]:61671 Accepted
+[Thu Dec 10 23:34:34 2020] [::1]:61670 [200]: GET /
+[Thu Dec 10 23:34:34 2020] [::1]:61670 Closing
+[Thu Dec 10 23:34:34 2020] [::1]:61671 [200]: GET /client.bundle.js
+[Thu Dec 10 23:34:34 2020] [::1]:61671 Closing
+[Thu Dec 10 23:34:36 2020] [::1]:61674 Accepted
+[Thu Dec 10 23:34:36 2020] [::1]:61675 Accepted
+[Thu Dec 10 23:34:37 2020] [::1]:61674 [200]: GET /api
+[Thu Dec 10 23:34:37 2020] [::1]:61674 Closing
+[Thu Dec 10 23:34:38 2020] [::1]:61677 Accepted
+[Thu Dec 10 23:34:38 2020] [::1]:61675 [200]: GET /api
+[Thu Dec 10 23:34:38 2020] [::1]:61675 Closing
+[Thu Dec 10 23:34:40 2020] [::1]:61678 Accepted
+[Thu Dec 10 23:34:40 2020] [::1]:61677 [200]: GET /api
+[Thu Dec 10 23:34:40 2020] [::1]:61677 Closing
+[Thu Dec 10 23:35:21 2020] [::1]:61701 Accepted
+[Thu Dec 10 23:35:21 2020] PHP Warning:  Undefined property: Nebula\Routing\Route::$request in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 44
+[Thu Dec 10 23:35:21 2020] PHP Fatal error:  Uncaught Error: Call to a member function requestMethod() on null in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:44
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 44
+[Thu Dec 10 23:35:21 2020] [::1]:61678 [200]: GET /api - Uncaught Error: Call to a member function requestMethod() on null in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:44
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 44
+[Thu Dec 10 23:35:21 2020] [::1]:61678 Closing
+[Thu Dec 10 23:36:20 2020] [::1]:61732 Accepted
+[Thu Dec 10 23:36:20 2020] PHP Warning:  Undefined property: Nebula\Routing\Route::$request in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 44
+[Thu Dec 10 23:36:20 2020] PHP Fatal error:  Uncaught Error: Call to a member function requestMethod() on null in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:44
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 44
+[Thu Dec 10 23:36:20 2020] [::1]:61701 [200]: GET /api - Uncaught Error: Call to a member function requestMethod() on null in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:44
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 44
+[Thu Dec 10 23:36:20 2020] [::1]:61701 Closing
+[Thu Dec 10 23:36:30 2020] [::1]:61739 Accepted
+[Thu Dec 10 23:36:30 2020] PHP Warning:  Undefined property: Nebula\Routing\Route::$request in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 80
+[Thu Dec 10 23:36:30 2020] [::1]:61732 [200]: GET /api
+[Thu Dec 10 23:36:30 2020] [::1]:61732 Closing
+[Thu Dec 10 23:37:09 2020] [::1]:61761 Accepted
+[Thu Dec 10 23:37:09 2020] PHP Warning:  Undefined property: Nebula\Routing\Route::$request in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 81
+[Thu Dec 10 23:37:09 2020] [::1]:61739 [200]: GET /api
+[Thu Dec 10 23:37:09 2020] [::1]:61739 Closing
+[Thu Dec 10 23:37:20 2020] [::1]:61772 Accepted
+[Thu Dec 10 23:37:20 2020] [::1]:61761 [200]: GET /api
+[Thu Dec 10 23:37:20 2020] [::1]:61761 Closing
+[Thu Dec 10 23:47:59 2020] [::1]:61772 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Dec 10 23:47:59 2020] [::1]:61772 Closing
+[Thu Dec 10 23:47:59 2020] [::1]:62174 Accepted
+[Thu Dec 10 23:47:59 2020] [::1]:62175 Accepted
+[Thu Dec 10 23:47:59 2020] [::1]:62174 [200]: GET /api
+[Thu Dec 10 23:47:59 2020] [::1]:62174 Closing
+[Thu Dec 10 23:50:12 2020] [::1]:62175 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Dec 10 23:50:12 2020] [::1]:62175 Closing
+[Thu Dec 10 23:50:12 2020] [::1]:62253 Accepted
+[Thu Dec 10 23:50:12 2020] [::1]:62254 Accepted
+[Thu Dec 10 23:50:12 2020] [::1]:62253 [200]: GET /api
+[Thu Dec 10 23:50:12 2020] [::1]:62253 Closing
+[Thu Dec 10 23:50:52 2020] [::1]:62285 Accepted
+[Thu Dec 10 23:50:52 2020] [::1]:62254 [200]: GET /api
+[Thu Dec 10 23:50:52 2020] [::1]:62254 Closing
+[Thu Dec 10 23:53:05 2020] [::1]:62285 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Dec 10 23:53:05 2020] [::1]:62285 Closing
+[Thu Dec 10 23:53:05 2020] [::1]:62366 Accepted
+[Thu Dec 10 23:53:05 2020] [::1]:62367 Accepted
+[Thu Dec 10 23:53:05 2020] PHP Fatal error:  Uncaught Error: Class "Nebula\Routing\Dispatcher" not found in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:70
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(14): Nebula\Routing\Route->dispatch('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 70
+[Thu Dec 10 23:53:05 2020] [::1]:62366 [200]: GET /api - Uncaught Error: Class "Nebula\Routing\Dispatcher" not found in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:70
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(14): Nebula\Routing\Route->dispatch('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 70
+[Thu Dec 10 23:53:05 2020] [::1]:62366 Closing
+[Thu Dec 10 23:53:23 2020] [::1]:62382 Accepted
+[Thu Dec 10 23:53:23 2020] PHP Fatal error:  Uncaught Error: Class "Nebula\Routing\Request" not found in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php:7
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(70): Nebula\Routing\Dispatcher::dispatch('D:\\Files\\Docume...', Array)
+#1 D:\Files\Documents\Programs\Nebula\.framework\App.php(14): Nebula\Routing\Route->dispatch('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#3 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 7
+[Thu Dec 10 23:53:23 2020] [::1]:62367 [200]: GET /api - Uncaught Error: Class "Nebula\Routing\Request" not found in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php:7
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(70): Nebula\Routing\Dispatcher::dispatch('D:\\Files\\Docume...', Array)
+#1 D:\Files\Documents\Programs\Nebula\.framework\App.php(14): Nebula\Routing\Route->dispatch('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#3 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 7
+[Thu Dec 10 23:53:23 2020] [::1]:62367 Closing
+[Thu Dec 10 23:53:36 2020] [::1]:62389 Accepted
+[Thu Dec 10 23:53:36 2020] [::1]:62382 [200]: GET /api
+[Thu Dec 10 23:53:36 2020] [::1]:62382 Closing
+[Thu Dec 10 23:53:47 2020] [::1]:62399 Accepted
+[Thu Dec 10 23:53:47 2020] [::1]:62389 [200]: GET /api
+[Thu Dec 10 23:53:47 2020] [::1]:62389 Closing
+[Thu Dec 10 23:53:55 2020] [::1]:62403 Accepted
+[Thu Dec 10 23:53:55 2020] [::1]:62399 [200]: GET /api
+[Thu Dec 10 23:53:55 2020] [::1]:62399 Closing
+[Thu Dec 10 23:54:20 2020] [::1]:62418 Accepted
+[Thu Dec 10 23:54:21 2020] [::1]:62403 [200]: GET /api
+[Thu Dec 10 23:54:21 2020] [::1]:62403 Closing
+[Thu Dec 10 23:54:33 2020] [::1]:62424 Accepted
+[Thu Dec 10 23:54:33 2020] [::1]:62418 [200]: GET /api
+[Thu Dec 10 23:54:33 2020] [::1]:62418 Closing
+[Thu Dec 10 23:56:21 2020] [::1]:62424 Closed without sending a request; it was probably just an unused speculative preconnection
+[Thu Dec 10 23:56:21 2020] [::1]:62424 Closing
+[Thu Dec 10 23:56:21 2020] [::1]:62535 Accepted
+[Thu Dec 10 23:56:21 2020] [::1]:62536 Accepted
+[Thu Dec 10 23:56:21 2020] [::1]:62535 [200]: GET /api
+[Thu Dec 10 23:56:21 2020] [::1]:62535 Closing
+[Fri Dec 11 00:00:57 2020] [::1]:62536 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Dec 11 00:00:57 2020] [::1]:62536 Closing
+[Fri Dec 11 00:00:57 2020] [::1]:62692 Accepted
+[Fri Dec 11 00:00:57 2020] [::1]:62693 Accepted
+[Fri Dec 11 00:00:57 2020] PHP Fatal error:  Uncaught Error: Class "Nebula\Routing\ParseController" not found in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:33
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 33
+[Fri Dec 11 00:00:57 2020] [::1]:62692 [200]: GET /api - Uncaught Error: Class "Nebula\Routing\ParseController" not found in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:33
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 33
+[Fri Dec 11 00:00:57 2020] [::1]:62692 Closing
+[Fri Dec 11 00:01:07 2020] [::1]:62701 Accepted
+[Fri Dec 11 00:01:07 2020] PHP Fatal error:  Uncaught Error: Call to undefined method Nebula\Routing\ControllerParser::file_get_php_classes() in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:15
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(8): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(33): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#4 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 15
+[Fri Dec 11 00:01:07 2020] [::1]:62693 [200]: GET /api - Uncaught Error: Call to undefined method Nebula\Routing\ControllerParser::file_get_php_classes() in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:15
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(8): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(33): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#4 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 15
+[Fri Dec 11 00:01:07 2020] [::1]:62693 Closing
+[Fri Dec 11 00:01:34 2020] [::1]:62725 Accepted
+[Fri Dec 11 00:01:34 2020] PHP Warning:  Undefined array key 0 in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 21
+[Fri Dec 11 00:01:34 2020] PHP Fatal error:  Uncaught Error: Call to a member function newInstance() on null in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:22
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(8): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(33): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#4 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 22
+[Fri Dec 11 00:01:34 2020] [::1]:62701 [200]: GET /api - Uncaught Error: Call to a member function newInstance() on null in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:22
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(8): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(33): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#4 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 22
+[Fri Dec 11 00:01:34 2020] [::1]:62701 Closing
+[Fri Dec 11 00:01:37 2020] [::1]:62727 Accepted
+[Fri Dec 11 00:01:37 2020] PHP Warning:  Undefined array key 0 in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 21
+[Fri Dec 11 00:01:37 2020] PHP Fatal error:  Uncaught Error: Call to a member function newInstance() on null in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:22
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(8): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(33): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#4 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 22
+[Fri Dec 11 00:01:37 2020] [::1]:62725 [200]: GET /api - Uncaught Error: Call to a member function newInstance() on null in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:22
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(8): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(33): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#4 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 22
+[Fri Dec 11 00:01:37 2020] [::1]:62725 Closing
+[Fri Dec 11 00:01:56 2020] [::1]:62745 Accepted
+[Fri Dec 11 00:01:56 2020] PHP Warning:  Undefined array key 0 in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 21
+[Fri Dec 11 00:01:56 2020] PHP Fatal error:  Uncaught Error: Call to a member function newInstance() on null in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:22
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(8): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(33): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#4 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 22
+[Fri Dec 11 00:01:56 2020] [::1]:62727 [200]: GET /api - Uncaught Error: Call to a member function newInstance() on null in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:22
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(8): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(33): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#4 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 22
+[Fri Dec 11 00:01:56 2020] [::1]:62727 Closing
+[Fri Dec 11 00:02:08 2020] [::1]:62752 Accepted
+[Fri Dec 11 00:02:08 2020] [::1]:62745 [200]: GET /api
+[Fri Dec 11 00:02:08 2020] [::1]:62745 Closing
+[Fri Dec 11 00:02:08 2020] [::1]:62752 [200]: GET /client.bundle.js
+[Fri Dec 11 00:02:08 2020] [::1]:62752 Closing
+[Fri Dec 11 00:02:12 2020] [::1]:62755 Accepted
+[Fri Dec 11 00:02:12 2020] [::1]:62756 Accepted
+[Fri Dec 11 00:02:12 2020] [::1]:62755 [200]: GET /api
+[Fri Dec 11 00:02:12 2020] [::1]:62755 Closing
+[Fri Dec 11 00:02:12 2020] [::1]:62756 [200]: GET /client.bundle.js
+[Fri Dec 11 00:02:12 2020] [::1]:62756 Closing
+[Fri Dec 11 00:02:39 2020] [::1]:62772 Accepted
+[Fri Dec 11 00:02:39 2020] [::1]:62773 Accepted
+[Fri Dec 11 00:02:39 2020] [::1]:62772 [200]: GET /api
+[Fri Dec 11 00:02:39 2020] [::1]:62772 Closing
+[Fri Dec 11 00:02:40 2020] [::1]:62773 [200]: GET /client.bundle.js
+[Fri Dec 11 00:02:40 2020] [::1]:62773 Closing
+[Fri Dec 11 00:02:54 2020] [::1]:62783 Accepted
+[Fri Dec 11 00:02:54 2020] [::1]:62784 Accepted
+[Fri Dec 11 00:02:55 2020] [::1]:62783 [200]: GET /api
+[Fri Dec 11 00:02:55 2020] [::1]:62783 Closing
+[Fri Dec 11 00:02:55 2020] [::1]:62784 [200]: GET /client.bundle.js
+[Fri Dec 11 00:02:55 2020] [::1]:62784 Closing
+[Fri Dec 11 00:03:00 2020] [::1]:62789 Accepted
+[Fri Dec 11 00:03:00 2020] [::1]:62790 Accepted
+[Fri Dec 11 00:03:00 2020] [::1]:62789 [200]: GET /api
+[Fri Dec 11 00:03:00 2020] [::1]:62789 Closing
+[Fri Dec 11 00:03:00 2020] [::1]:62790 [200]: GET /client.bundle.js
+[Fri Dec 11 00:03:00 2020] [::1]:62790 Closing
+[Fri Dec 11 00:03:10 2020] [::1]:62795 Accepted
+[Fri Dec 11 00:03:10 2020] [::1]:62796 Accepted
+[Fri Dec 11 00:03:10 2020] [::1]:62795 [200]: GET /api
+[Fri Dec 11 00:03:10 2020] [::1]:62795 Closing
+[Fri Dec 11 00:03:10 2020] [::1]:62796 [200]: GET /client.bundle.js
+[Fri Dec 11 00:03:10 2020] [::1]:62796 Closing
+[Fri Dec 11 00:03:18 2020] [::1]:62806 Accepted
+[Fri Dec 11 00:03:18 2020] [::1]:62807 Accepted
+[Fri Dec 11 00:03:18 2020] [::1]:62806 [200]: GET /api
+[Fri Dec 11 00:03:18 2020] [::1]:62806 Closing
+[Fri Dec 11 00:03:19 2020] [::1]:62807 [200]: GET /client.bundle.js
+[Fri Dec 11 00:03:19 2020] [::1]:62807 Closing
+[Fri Dec 11 00:03:26 2020] [::1]:62812 Accepted
+[Fri Dec 11 00:03:26 2020] [::1]:62813 Accepted
+[Fri Dec 11 00:03:26 2020] [::1]:62812 [200]: GET /api
+[Fri Dec 11 00:03:26 2020] [::1]:62812 Closing
+[Fri Dec 11 00:03:26 2020] [::1]:62813 [200]: GET /client.bundle.js
+[Fri Dec 11 00:03:26 2020] [::1]:62813 Closing
+[Fri Dec 11 00:03:30 2020] [::1]:62816 Accepted
+[Fri Dec 11 00:03:30 2020] [::1]:62817 Accepted
+[Fri Dec 11 00:03:30 2020] [::1]:62816 [200]: GET /api
+[Fri Dec 11 00:03:30 2020] [::1]:62816 Closing
+[Fri Dec 11 00:03:30 2020] [::1]:62817 [200]: GET /client.bundle.js
+[Fri Dec 11 00:03:30 2020] [::1]:62817 Closing
+[Fri Dec 11 00:03:35 2020] [::1]:62821 Accepted
+[Fri Dec 11 00:03:35 2020] [::1]:62822 Accepted
+[Fri Dec 11 00:03:35 2020] PHP Warning:  Undefined array key 0 in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 22
+[Fri Dec 11 00:03:35 2020] [::1]:62821 [200]: GET /api
+[Fri Dec 11 00:03:35 2020] [::1]:62821 Closing
+[Fri Dec 11 00:03:35 2020] [::1]:62822 [200]: GET /client.bundle.js
+[Fri Dec 11 00:03:35 2020] [::1]:62822 Closing
+[Fri Dec 11 00:03:57 2020] [::1]:62834 Accepted
+[Fri Dec 11 00:03:57 2020] [::1]:62835 Accepted
+[Fri Dec 11 00:03:57 2020] [::1]:62834 [200]: GET /api
+[Fri Dec 11 00:03:57 2020] [::1]:62834 Closing
+[Fri Dec 11 00:03:57 2020] [::1]:62835 [200]: GET /client.bundle.js
+[Fri Dec 11 00:03:57 2020] [::1]:62835 Closing
+[Fri Dec 11 00:04:05 2020] [::1]:62841 Accepted
+[Fri Dec 11 00:04:05 2020] [::1]:62842 Accepted
+[Fri Dec 11 00:04:05 2020] [::1]:62841 [200]: GET /api
+[Fri Dec 11 00:04:05 2020] [::1]:62841 Closing
+[Fri Dec 11 00:04:05 2020] [::1]:62842 [200]: GET /client.bundle.js
+[Fri Dec 11 00:04:05 2020] [::1]:62842 Closing
+[Fri Dec 11 00:07:02 2020] [::1]:63047 Accepted
+[Fri Dec 11 00:07:02 2020] [::1]:63048 Accepted
+[Fri Dec 11 00:07:02 2020] [::1]:63047 [200]: GET /api
+[Fri Dec 11 00:07:02 2020] [::1]:63047 Closing
+[Fri Dec 11 00:07:02 2020] [::1]:63048 [200]: GET /client.bundle.js
+[Fri Dec 11 00:07:02 2020] [::1]:63048 Closing
+[Fri Dec 11 00:07:03 2020] [::1]:63050 Accepted
+[Fri Dec 11 00:07:03 2020] [::1]:63051 Accepted
+[Fri Dec 11 00:07:03 2020] [::1]:63050 [200]: GET /api
+[Fri Dec 11 00:07:03 2020] [::1]:63050 Closing
+[Fri Dec 11 00:07:03 2020] [::1]:63051 [200]: GET /client.bundle.js
+[Fri Dec 11 00:07:03 2020] [::1]:63051 Closing
+[Fri Dec 11 00:11:07 2020] [::1]:63190 Accepted
+[Fri Dec 11 00:11:07 2020] [::1]:63191 Accepted
+[Fri Dec 11 00:11:07 2020] PHP Warning:  Undefined variable $controllerFileNames in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 53
+[Fri Dec 11 00:11:07 2020] PHP Warning:  foreach() argument must be of type array|object, null given in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 53
+[Fri Dec 11 00:11:07 2020] [::1]:63190 [200]: GET /api
+[Fri Dec 11 00:11:07 2020] [::1]:63190 Closing
+[Fri Dec 11 00:11:07 2020] [::1]:63191 [200]: GET /client.bundle.js
+[Fri Dec 11 00:11:07 2020] [::1]:63191 Closing
+[Fri Dec 11 00:11:42 2020] [::1]:63212 Accepted
+[Fri Dec 11 00:11:42 2020] [::1]:63213 Accepted
+[Fri Dec 11 00:11:42 2020] PHP Warning:  Undefined variable $directory in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 51
+[Fri Dec 11 00:11:42 2020] PHP Warning:  scandir(/src/controllers,/src/controllers): The system cannot find the path specified (code: 3) in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 51
+[Fri Dec 11 00:11:42 2020] PHP Warning:  scandir(/src/controllers): Failed to open directory: No such file or directory in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 51
+[Fri Dec 11 00:11:42 2020] PHP Warning:  scandir(): (errno 2): No such file or directory in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 51
+[Fri Dec 11 00:11:42 2020] PHP Fatal error:  Uncaught TypeError: array_diff(): Argument #1 ($array) must be of type array, bool given in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:51
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(51): array_diff(false, Array)
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(47): Nebula\Routing\ControllerParser->parseControllers()
+#2 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(11): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(31): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#4 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#5 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#6 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 51
+[Fri Dec 11 00:11:42 2020] [::1]:63212 [200]: GET /api - Uncaught TypeError: array_diff(): Argument #1 ($array) must be of type array, bool given in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:51
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(51): array_diff(false, Array)
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(47): Nebula\Routing\ControllerParser->parseControllers()
+#2 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(11): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(31): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#4 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#5 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#6 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 51
+[Fri Dec 11 00:11:42 2020] [::1]:63212 Closing
+[Fri Dec 11 00:11:55 2020] [::1]:63222 Accepted
+[Fri Dec 11 00:11:55 2020] [::1]:63213 [200]: GET /api
+[Fri Dec 11 00:11:55 2020] [::1]:63213 Closing
+[Fri Dec 11 00:11:55 2020] [::1]:63222 [200]: GET /client.bundle.js
+[Fri Dec 11 00:11:55 2020] [::1]:63222 Closing
+[Fri Dec 11 00:13:33 2020] [::1]:63274 Accepted
+[Fri Dec 11 00:13:33 2020] [::1]:63275 Accepted
+[Fri Dec 11 00:13:33 2020] [::1]:63274 [200]: GET /api
+[Fri Dec 11 00:13:33 2020] [::1]:63274 Closing
+[Fri Dec 11 00:13:33 2020] [::1]:63275 [200]: GET /client.bundle.js
+[Fri Dec 11 00:13:33 2020] [::1]:63275 Closing
+[Fri Dec 11 00:13:44 2020] [::1]:63281 Accepted
+[Fri Dec 11 00:13:44 2020] [::1]:63282 Accepted
+[Fri Dec 11 00:13:44 2020] [::1]:63281 [200]: GET /api
+[Fri Dec 11 00:13:44 2020] [::1]:63281 Closing
+[Fri Dec 11 00:13:44 2020] [::1]:63282 [200]: GET /client.bundle.js
+[Fri Dec 11 00:13:44 2020] [::1]:63282 Closing
+[Fri Dec 11 00:14:13 2020] [::1]:63301 Accepted
+[Fri Dec 11 00:14:13 2020] [::1]:63302 Accepted
+[Fri Dec 11 00:14:13 2020] PHP Warning:  Undefined variable $prefix in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 83
+[Fri Dec 11 00:14:13 2020] PHP Warning:  Undefined variable $controller in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 84
+[Fri Dec 11 00:14:13 2020] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:84
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(48): Nebula\Routing\ControllerParser->parseMethods(Array)
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(11): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(31): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#4 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#5 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 84
+[Fri Dec 11 00:14:13 2020] [::1]:63301 [200]: GET /api - Uncaught Error: Class name must be a valid object or a string in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:84
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(48): Nebula\Routing\ControllerParser->parseMethods(Array)
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(11): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(31): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#4 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#5 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 84
+[Fri Dec 11 00:14:13 2020] [::1]:63301 Closing
+[Fri Dec 11 00:14:27 2020] [::1]:63310 Accepted
+[Fri Dec 11 00:14:27 2020] PHP Warning:  Undefined variable $prefix in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 83
+[Fri Dec 11 00:14:27 2020] PHP Warning:  Undefined variable $controller in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 84
+[Fri Dec 11 00:14:27 2020] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:84
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(48): Nebula\Routing\ControllerParser->parseMethods(Array)
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(11): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(31): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#4 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#5 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 84
+[Fri Dec 11 00:14:27 2020] [::1]:63302 [200]: GET /api - Uncaught Error: Class name must be a valid object or a string in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:84
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(48): Nebula\Routing\ControllerParser->parseMethods(Array)
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(11): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(31): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#4 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#5 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 84
+[Fri Dec 11 00:14:27 2020] [::1]:63302 Closing
+[Fri Dec 11 00:15:33 2020] [::1]:63310 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Dec 11 00:15:33 2020] [::1]:63310 Closing
+[Fri Dec 11 00:15:33 2020] [::1]:63344 Accepted
+[Fri Dec 11 00:15:33 2020] [::1]:63345 Accepted
+[Fri Dec 11 00:15:33 2020] [::1]:63344 [200]: GET /api
+[Fri Dec 11 00:15:33 2020] [::1]:63344 Closing
+[Fri Dec 11 00:15:33 2020] [::1]:63345 [200]: GET /client.bundle.js
+[Fri Dec 11 00:15:33 2020] [::1]:63345 Closing
+[Fri Dec 11 00:15:52 2020] [::1]:63357 Accepted
+[Fri Dec 11 00:15:52 2020] [::1]:63358 Accepted
+[Fri Dec 11 00:15:52 2020] PHP Warning:  Undefined variable $controller in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 84
+[Fri Dec 11 00:15:52 2020] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:84
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(48): Nebula\Routing\ControllerParser->parseMethods(Array, '/')
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(11): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(31): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#4 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#5 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 84
+[Fri Dec 11 00:15:52 2020] [::1]:63357 [200]: GET /api - Uncaught Error: Class name must be a valid object or a string in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:84
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(48): Nebula\Routing\ControllerParser->parseMethods(Array, '/')
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(11): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(31): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#4 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#5 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 84
+[Fri Dec 11 00:15:52 2020] [::1]:63357 Closing
+[Fri Dec 11 00:15:59 2020] [::1]:63363 Accepted
+[Fri Dec 11 00:15:59 2020] PHP Warning:  Undefined variable $controller in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 84
+[Fri Dec 11 00:15:59 2020] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:84
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(48): Nebula\Routing\ControllerParser->parseMethods(Array, '/')
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(11): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(31): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#4 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#5 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 84
+[Fri Dec 11 00:15:59 2020] [::1]:63358 [200]: GET /api - Uncaught Error: Class name must be a valid object or a string in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:84
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(48): Nebula\Routing\ControllerParser->parseMethods(Array, '/')
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(11): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(31): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#4 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#5 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 84
+[Fri Dec 11 00:15:59 2020] [::1]:63358 Closing
+[Fri Dec 11 00:16:06 2020] [::1]:63367 Accepted
+[Fri Dec 11 00:16:06 2020] [::1]:63363 [200]: GET /api
+[Fri Dec 11 00:16:06 2020] [::1]:63363 Closing
+[Fri Dec 11 00:16:06 2020] [::1]:63367 [200]: GET /client.bundle.js
+[Fri Dec 11 00:16:06 2020] [::1]:63367 Closing
+[Fri Dec 11 00:16:47 2020] [::1]:63389 Accepted
+[Fri Dec 11 00:16:47 2020] [::1]:63390 Accepted
+[Fri Dec 11 00:16:47 2020] [::1]:63389 [200]: GET /api
+[Fri Dec 11 00:16:47 2020] [::1]:63389 Closing
+[Fri Dec 11 00:16:47 2020] [::1]:63390 [200]: GET /client.bundle.js
+[Fri Dec 11 00:16:47 2020] [::1]:63390 Closing
+[Fri Dec 11 00:18:27 2020] [::1]:63445 Accepted
+[Fri Dec 11 00:18:27 2020] [::1]:63446 Accepted
+[Fri Dec 11 00:18:27 2020] PHP Warning:  Undefined variable $controller in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:18:27 2020] PHP Warning:  Trying to access array offset on value of type null in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:18:27 2020] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:84
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(48): Nebula\Routing\ControllerParser->parseMethods(NULL, Array, '/')
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(11): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(31): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#4 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#5 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 84
+[Fri Dec 11 00:18:27 2020] [::1]:63445 [200]: GET /api - Uncaught Error: Class name must be a valid object or a string in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:84
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(48): Nebula\Routing\ControllerParser->parseMethods(NULL, Array, '/')
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(11): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(31): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#4 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#5 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 84
+[Fri Dec 11 00:18:27 2020] [::1]:63445 Closing
+[Fri Dec 11 00:18:46 2020] [::1]:63459 Accepted
+[Fri Dec 11 00:18:46 2020] [::1]:63446 [200]: GET /api
+[Fri Dec 11 00:18:46 2020] [::1]:63446 Closing
+[Fri Dec 11 00:18:46 2020] [::1]:63459 [200]: GET /client.bundle.js
+[Fri Dec 11 00:18:46 2020] [::1]:63459 Closing
+[Fri Dec 11 00:18:59 2020] [::1]:63467 Accepted
+[Fri Dec 11 00:18:59 2020] [::1]:63468 Accepted
+[Fri Dec 11 00:18:59 2020] [::1]:63467 [200]: GET /api
+[Fri Dec 11 00:18:59 2020] [::1]:63467 Closing
+[Fri Dec 11 00:18:59 2020] [::1]:63468 [200]: GET /client.bundle.js
+[Fri Dec 11 00:18:59 2020] [::1]:63468 Closing
+[Fri Dec 11 00:19:09 2020] [::1]:63473 Accepted
+[Fri Dec 11 00:19:09 2020] [::1]:63474 Accepted
+[Fri Dec 11 00:19:09 2020] [::1]:63473 [200]: GET /api
+[Fri Dec 11 00:19:09 2020] [::1]:63473 Closing
+[Fri Dec 11 00:19:09 2020] [::1]:63474 [200]: GET /client.bundle.js
+[Fri Dec 11 00:19:09 2020] [::1]:63474 Closing
+[Fri Dec 11 00:19:42 2020] [::1]:63494 Accepted
+[Fri Dec 11 00:19:42 2020] [::1]:63495 Accepted
+[Fri Dec 11 00:19:42 2020] [::1]:63494 [200]: GET /api
+[Fri Dec 11 00:19:42 2020] [::1]:63494 Closing
+[Fri Dec 11 00:19:42 2020] [::1]:63495 [200]: GET /client.bundle.js
+[Fri Dec 11 00:19:42 2020] [::1]:63495 Closing
+[Fri Dec 11 00:21:22 2020] [::1]:63567 Accepted
+[Fri Dec 11 00:21:22 2020] [::1]:63568 Accepted
+[Fri Dec 11 00:21:22 2020] [::1]:63567 [200]: GET /api
+[Fri Dec 11 00:21:22 2020] [::1]:63567 Closing
+[Fri Dec 11 00:21:22 2020] [::1]:63568 [200]: GET /client.bundle.js
+[Fri Dec 11 00:21:22 2020] [::1]:63568 Closing
+[Fri Dec 11 00:21:46 2020] [::1]:63585 Accepted
+[Fri Dec 11 00:21:46 2020] [::1]:63586 Accepted
+[Fri Dec 11 00:21:46 2020] [::1]:63585 [200]: GET /api
+[Fri Dec 11 00:21:46 2020] [::1]:63585 Closing
+[Fri Dec 11 00:21:46 2020] [::1]:63586 [200]: GET /client.bundle.js
+[Fri Dec 11 00:21:46 2020] [::1]:63586 Closing
+[Fri Dec 11 00:22:04 2020] [::1]:63600 Accepted
+[Fri Dec 11 00:22:04 2020] [::1]:63601 Accepted
+[Fri Dec 11 00:22:04 2020] [::1]:63600 [200]: GET /api
+[Fri Dec 11 00:22:04 2020] [::1]:63600 Closing
+[Fri Dec 11 00:22:04 2020] [::1]:63601 [200]: GET /client.bundle.js
+[Fri Dec 11 00:22:04 2020] [::1]:63601 Closing
+[Fri Dec 11 00:22:08 2020] [::1]:63605 Accepted
+[Fri Dec 11 00:22:08 2020] [::1]:63606 Accepted
+[Fri Dec 11 00:22:08 2020] [::1]:63605 [200]: GET /api
+[Fri Dec 11 00:22:08 2020] [::1]:63605 Closing
+[Fri Dec 11 00:22:09 2020] [::1]:63606 [200]: GET /client.bundle.js
+[Fri Dec 11 00:22:09 2020] [::1]:63606 Closing
+[Fri Dec 11 00:22:18 2020] [::1]:63613 Accepted
+[Fri Dec 11 00:22:18 2020] [::1]:63614 Accepted
+[Fri Dec 11 00:22:18 2020] [::1]:63613 [200]: GET /api
+[Fri Dec 11 00:22:18 2020] [::1]:63613 Closing
+[Fri Dec 11 00:22:18 2020] [::1]:63614 [200]: GET /client.bundle.js
+[Fri Dec 11 00:22:18 2020] [::1]:63614 Closing
+[Fri Dec 11 00:22:18 2020] [::1]:63615 Accepted
+[Fri Dec 11 00:22:18 2020] [::1]:63616 Accepted
+[Fri Dec 11 00:22:18 2020] [::1]:63615 [200]: GET /api
+[Fri Dec 11 00:22:18 2020] [::1]:63615 Closing
+[Fri Dec 11 00:22:18 2020] [::1]:63616 [200]: GET /client.bundle.js
+[Fri Dec 11 00:22:18 2020] [::1]:63616 Closing
+[Fri Dec 11 00:22:18 2020] [::1]:63618 Accepted
+[Fri Dec 11 00:22:18 2020] [::1]:63619 Accepted
+[Fri Dec 11 00:22:18 2020] [::1]:63618 [200]: GET /api
+[Fri Dec 11 00:22:18 2020] [::1]:63618 Closing
+[Fri Dec 11 00:22:18 2020] [::1]:63619 [200]: GET /client.bundle.js
+[Fri Dec 11 00:22:18 2020] [::1]:63619 Closing
+[Fri Dec 11 00:22:18 2020] [::1]:63620 Accepted
+[Fri Dec 11 00:22:18 2020] [::1]:63621 Accepted
+[Fri Dec 11 00:22:18 2020] [::1]:63621 [200]: GET /api
+[Fri Dec 11 00:22:18 2020] [::1]:63621 Closing
+[Fri Dec 11 00:22:18 2020] [::1]:63620 [200]: GET /client.bundle.js
+[Fri Dec 11 00:22:18 2020] [::1]:63620 Closing
+[Fri Dec 11 00:22:18 2020] [::1]:63622 Accepted
+[Fri Dec 11 00:22:18 2020] [::1]:63623 Accepted
+[Fri Dec 11 00:22:19 2020] [::1]:63622 [200]: GET /api
+[Fri Dec 11 00:22:19 2020] [::1]:63622 Closing
+[Fri Dec 11 00:22:19 2020] [::1]:63623 [200]: GET /client.bundle.js
+[Fri Dec 11 00:22:19 2020] [::1]:63623 Closing
+[Fri Dec 11 00:22:19 2020] [::1]:63624 Accepted
+[Fri Dec 11 00:22:19 2020] [::1]:63624 [200]: GET /api
+[Fri Dec 11 00:22:19 2020] [::1]:63624 Closing
+[Fri Dec 11 00:22:19 2020] [::1]:63625 Accepted
+[Fri Dec 11 00:22:19 2020] [::1]:63625 [200]: GET /client.bundle.js
+[Fri Dec 11 00:22:19 2020] [::1]:63625 Closing
+[Fri Dec 11 00:22:25 2020] [::1]:63633 Accepted
+[Fri Dec 11 00:22:25 2020] [::1]:63634 Accepted
+[Fri Dec 11 00:22:25 2020] [::1]:63633 [200]: GET /api
+[Fri Dec 11 00:22:25 2020] [::1]:63633 Closing
+[Fri Dec 11 00:22:25 2020] [::1]:63634 [200]: GET /client.bundle.js
+[Fri Dec 11 00:22:25 2020] [::1]:63634 Closing
+[Fri Dec 11 00:23:13 2020] [::1]:63661 Accepted
+[Fri Dec 11 00:23:13 2020] [::1]:63662 Accepted
+[Fri Dec 11 00:23:13 2020] PHP Warning:  Undefined variable $controllers in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:23:13 2020] PHP Warning:  Trying to access array offset on value of type null in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:23:13 2020] PHP Warning:  Undefined variable $controllers in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:23:13 2020] PHP Warning:  Trying to access array offset on value of type null in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:23:13 2020] PHP Warning:  Undefined variable $controllers in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:23:13 2020] PHP Warning:  Trying to access array offset on value of type null in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:23:13 2020] PHP Warning:  foreach() argument must be of type array|object, null given in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 82
+[Fri Dec 11 00:23:13 2020] PHP Warning:  Undefined variable $controllers in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:23:13 2020] PHP Warning:  Trying to access array offset on value of type null in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:23:13 2020] PHP Warning:  Undefined variable $controllers in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:23:13 2020] PHP Warning:  Trying to access array offset on value of type null in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:23:13 2020] PHP Warning:  Undefined variable $controllers in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:23:13 2020] PHP Warning:  Trying to access array offset on value of type null in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:23:13 2020] PHP Warning:  foreach() argument must be of type array|object, null given in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 82
+[Fri Dec 11 00:23:13 2020] [::1]:63661 [200]: GET /api
+[Fri Dec 11 00:23:13 2020] [::1]:63661 Closing
+[Fri Dec 11 00:23:13 2020] [::1]:63662 [200]: GET /client.bundle.js
+[Fri Dec 11 00:23:13 2020] [::1]:63662 Closing
+[Fri Dec 11 00:23:22 2020] [::1]:63668 Accepted
+[Fri Dec 11 00:23:22 2020] [::1]:63669 Accepted
+[Fri Dec 11 00:23:22 2020] [::1]:63668 [200]: GET /api
+[Fri Dec 11 00:23:22 2020] [::1]:63668 Closing
+[Fri Dec 11 00:23:22 2020] [::1]:63669 [200]: GET /client.bundle.js
+[Fri Dec 11 00:23:22 2020] [::1]:63669 Closing
+[Fri Dec 11 00:30:12 2020] [::1]:63919 Accepted
+[Fri Dec 11 00:30:12 2020] [::1]:63920 Accepted
+[Fri Dec 11 00:30:12 2020] [::1]:63919 [200]: GET /api
+[Fri Dec 11 00:30:12 2020] [::1]:63919 Closing
+[Fri Dec 11 00:30:12 2020] [::1]:63920 [200]: GET /client.bundle.js
+[Fri Dec 11 00:30:12 2020] [::1]:63920 Closing
+[Fri Dec 11 00:30:31 2020] [::1]:63934 Accepted
+[Fri Dec 11 00:30:31 2020] [::1]:63935 Accepted
+[Fri Dec 11 00:30:31 2020] [::1]:63934 [200]: GET /api
+[Fri Dec 11 00:30:31 2020] [::1]:63934 Closing
+[Fri Dec 11 00:30:31 2020] [::1]:63935 [200]: GET /client.bundle.js
+[Fri Dec 11 00:30:31 2020] [::1]:63935 Closing
+[Fri Dec 11 00:30:32 2020] [::1]:63937 Accepted
+[Fri Dec 11 00:30:32 2020] [::1]:63938 Accepted
+[Fri Dec 11 00:30:32 2020] [::1]:63937 [200]: GET /api
+[Fri Dec 11 00:30:32 2020] [::1]:63937 Closing
+[Fri Dec 11 00:30:32 2020] [::1]:63938 [200]: GET /client.bundle.js
+[Fri Dec 11 00:30:32 2020] [::1]:63938 Closing
+[Fri Dec 11 00:30:32 2020] [::1]:63939 Accepted
+[Fri Dec 11 00:30:32 2020] [::1]:63940 Accepted
+[Fri Dec 11 00:30:32 2020] [::1]:63939 [200]: GET /api
+[Fri Dec 11 00:30:32 2020] [::1]:63939 Closing
+[Fri Dec 11 00:30:32 2020] [::1]:63940 [200]: GET /client.bundle.js
+[Fri Dec 11 00:30:32 2020] [::1]:63940 Closing
+[Fri Dec 11 00:30:32 2020] [::1]:63941 Accepted
+[Fri Dec 11 00:30:32 2020] [::1]:63942 Accepted
+[Fri Dec 11 00:30:32 2020] [::1]:63941 [200]: GET /api
+[Fri Dec 11 00:30:32 2020] [::1]:63941 Closing
+[Fri Dec 11 00:30:32 2020] [::1]:63942 [200]: GET /client.bundle.js
+[Fri Dec 11 00:30:32 2020] [::1]:63942 Closing
+[Fri Dec 11 00:30:32 2020] [::1]:63943 Accepted
+[Fri Dec 11 00:30:32 2020] [::1]:63944 Accepted
+[Fri Dec 11 00:30:32 2020] [::1]:63943 [200]: GET /api
+[Fri Dec 11 00:30:32 2020] [::1]:63943 Closing
+[Fri Dec 11 00:30:32 2020] [::1]:63944 [200]: GET /client.bundle.js
+[Fri Dec 11 00:30:32 2020] [::1]:63944 Closing
+[Fri Dec 11 00:30:33 2020] [::1]:63945 Accepted
+[Fri Dec 11 00:30:33 2020] [::1]:63946 Accepted
+[Fri Dec 11 00:30:33 2020] [::1]:63945 [200]: GET /api
+[Fri Dec 11 00:30:33 2020] [::1]:63945 Closing
+[Fri Dec 11 00:30:33 2020] [::1]:63946 [200]: GET /client.bundle.js
+[Fri Dec 11 00:30:33 2020] [::1]:63946 Closing
+[Fri Dec 11 00:30:33 2020] [::1]:63947 Accepted
+[Fri Dec 11 00:30:33 2020] [::1]:63948 Accepted
+[Fri Dec 11 00:30:33 2020] [::1]:63947 [200]: GET /api
+[Fri Dec 11 00:30:33 2020] [::1]:63947 Closing
+[Fri Dec 11 00:30:33 2020] [::1]:63948 [200]: GET /client.bundle.js
+[Fri Dec 11 00:30:33 2020] [::1]:63948 Closing
+[Fri Dec 11 00:30:33 2020] [::1]:63949 Accepted
+[Fri Dec 11 00:30:33 2020] [::1]:63950 Accepted
+[Fri Dec 11 00:30:33 2020] [::1]:63949 [200]: GET /api
+[Fri Dec 11 00:30:33 2020] [::1]:63949 Closing
+[Fri Dec 11 00:30:33 2020] [::1]:63950 [200]: GET /client.bundle.js
+[Fri Dec 11 00:30:33 2020] [::1]:63950 Closing
+[Fri Dec 11 00:30:33 2020] [::1]:63951 Accepted
+[Fri Dec 11 00:30:33 2020] [::1]:63952 Accepted
+[Fri Dec 11 00:30:33 2020] [::1]:63951 [200]: GET /api
+[Fri Dec 11 00:30:33 2020] [::1]:63951 Closing
+[Fri Dec 11 00:30:33 2020] [::1]:63952 [200]: GET /client.bundle.js
+[Fri Dec 11 00:30:33 2020] [::1]:63952 Closing
+[Fri Dec 11 00:30:33 2020] [::1]:63953 Accepted
+[Fri Dec 11 00:30:33 2020] [::1]:63954 Accepted
+[Fri Dec 11 00:30:33 2020] [::1]:63953 [200]: GET /api
+[Fri Dec 11 00:30:33 2020] [::1]:63953 Closing
+[Fri Dec 11 00:30:33 2020] [::1]:63954 [200]: GET /client.bundle.js
+[Fri Dec 11 00:30:33 2020] [::1]:63954 Closing
+[Fri Dec 11 00:30:34 2020] [::1]:63955 Accepted
+[Fri Dec 11 00:30:34 2020] [::1]:63956 Accepted
+[Fri Dec 11 00:30:34 2020] [::1]:63955 [200]: GET /api
+[Fri Dec 11 00:30:34 2020] [::1]:63955 Closing
+[Fri Dec 11 00:30:34 2020] [::1]:63956 [200]: GET /client.bundle.js
+[Fri Dec 11 00:30:34 2020] [::1]:63956 Closing
+[Fri Dec 11 00:30:42 2020] [::1]:63961 Accepted
+[Fri Dec 11 00:30:42 2020] [::1]:63962 Accepted
+[Fri Dec 11 00:30:42 2020] [::1]:63961 [200]: GET /api
+[Fri Dec 11 00:30:42 2020] [::1]:63961 Closing
+[Fri Dec 11 00:30:42 2020] [::1]:63962 [200]: GET /client.bundle.js
+[Fri Dec 11 00:30:42 2020] [::1]:63962 Closing
+[Fri Dec 11 00:30:52 2020] [::1]:63968 Accepted
+[Fri Dec 11 00:30:52 2020] [::1]:63969 Accepted
+[Fri Dec 11 00:30:52 2020] [::1]:63968 [200]: GET /api
+[Fri Dec 11 00:30:52 2020] [::1]:63968 Closing
+[Fri Dec 11 00:30:52 2020] [::1]:63969 [200]: GET /client.bundle.js
+[Fri Dec 11 00:30:52 2020] [::1]:63969 Closing
+[Fri Dec 11 00:31:06 2020] [::1]:63979 Accepted
+[Fri Dec 11 00:31:06 2020] [::1]:63980 Accepted
+[Fri Dec 11 00:31:06 2020] [::1]:63979 [200]: GET /api
+[Fri Dec 11 00:31:06 2020] [::1]:63979 Closing
+[Fri Dec 11 00:31:06 2020] [::1]:63980 [200]: GET /client.bundle.js
+[Fri Dec 11 00:31:06 2020] [::1]:63980 Closing
+[Fri Dec 11 00:31:25 2020] [::1]:63990 Accepted
+[Fri Dec 11 00:31:25 2020] [::1]:63991 Accepted
+[Fri Dec 11 00:31:25 2020] [::1]:63990 [200]: GET /api
+[Fri Dec 11 00:31:25 2020] [::1]:63990 Closing
+[Fri Dec 11 00:31:25 2020] [::1]:63991 [200]: GET /client.bundle.js
+[Fri Dec 11 00:31:25 2020] [::1]:63991 Closing
+[Fri Dec 11 00:31:28 2020] [::1]:63993 Accepted
+[Fri Dec 11 00:31:28 2020] [::1]:63994 Accepted
+[Fri Dec 11 00:31:28 2020] [::1]:63993 [200]: GET /api
+[Fri Dec 11 00:31:28 2020] [::1]:63993 Closing
+[Fri Dec 11 00:31:28 2020] [::1]:63994 [200]: GET /client.bundle.js
+[Fri Dec 11 00:31:28 2020] [::1]:63994 Closing
+[Fri Dec 11 00:31:35 2020] [::1]:64005 Accepted
+[Fri Dec 11 00:31:35 2020] [::1]:64006 Accepted
+[Fri Dec 11 00:31:35 2020] [::1]:64005 [200]: GET /api
+[Fri Dec 11 00:31:35 2020] [::1]:64005 Closing
+[Fri Dec 11 00:31:35 2020] [::1]:64006 [200]: GET /client.bundle.js
+[Fri Dec 11 00:31:35 2020] [::1]:64006 Closing
+[Fri Dec 11 00:31:45 2020] [::1]:64012 Accepted
+[Fri Dec 11 00:31:45 2020] [::1]:64013 Accepted
+[Fri Dec 11 00:31:45 2020] [::1]:64012 [200]: GET /api
+[Fri Dec 11 00:31:45 2020] [::1]:64012 Closing
+[Fri Dec 11 00:31:45 2020] [::1]:64013 [200]: GET /client.bundle.js
+[Fri Dec 11 00:31:45 2020] [::1]:64013 Closing
+[Fri Dec 11 00:31:54 2020] [::1]:64024 Accepted
+[Fri Dec 11 00:31:54 2020] [::1]:64025 Accepted
+[Fri Dec 11 00:31:54 2020] [::1]:64024 [200]: GET /api
+[Fri Dec 11 00:31:54 2020] [::1]:64024 Closing
+[Fri Dec 11 00:31:54 2020] [::1]:64025 [200]: GET /client.bundle.js
+[Fri Dec 11 00:31:54 2020] [::1]:64025 Closing
+[Fri Dec 11 00:32:10 2020] [::1]:64036 Accepted
+[Fri Dec 11 00:32:10 2020] [::1]:64037 Accepted
+[Fri Dec 11 00:32:10 2020] PHP Fatal error:  Uncaught TypeError: Nebula\Routing\Route::parseControllers(): Return value must be of type array, null returned in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:32:10 2020] [::1]:64036 [200]: GET /api - Uncaught TypeError: Nebula\Routing\Route::parseControllers(): Return value must be of type array, null returned in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:32:10 2020] [::1]:64036 Closing
+[Fri Dec 11 00:32:38 2020] [::1]:64052 Accepted
+[Fri Dec 11 00:32:38 2020] [::1]:64037 [200]: GET /api
+[Fri Dec 11 00:32:38 2020] [::1]:64037 Closing
+[Fri Dec 11 00:32:38 2020] [::1]:64052 [200]: GET /client.bundle.js
+[Fri Dec 11 00:32:38 2020] [::1]:64052 Closing
+[Fri Dec 11 00:32:39 2020] [::1]:64053 Accepted
+[Fri Dec 11 00:32:39 2020] [::1]:64054 Accepted
+[Fri Dec 11 00:32:39 2020] [::1]:64053 [200]: GET /api
+[Fri Dec 11 00:32:39 2020] [::1]:64053 Closing
+[Fri Dec 11 00:32:39 2020] [::1]:64054 [200]: GET /client.bundle.js
+[Fri Dec 11 00:32:39 2020] [::1]:64054 Closing
+[Fri Dec 11 00:32:53 2020] [::1]:64063 Accepted
+[Fri Dec 11 00:32:53 2020] [::1]:64064 Accepted
+[Fri Dec 11 00:32:53 2020] PHP Fatal error:  Uncaught TypeError: Nebula\Routing\Route::parseControllers(): Return value must be of type array, none returned in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:32
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 32
+[Fri Dec 11 00:32:53 2020] [::1]:64063 [200]: GET /api - Uncaught TypeError: Nebula\Routing\Route::parseControllers(): Return value must be of type array, none returned in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:32
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 32
+[Fri Dec 11 00:32:53 2020] [::1]:64063 Closing
+[Fri Dec 11 00:32:59 2020] [::1]:64068 Accepted
+[Fri Dec 11 00:32:59 2020] [::1]:64064 [200]: GET /api
+[Fri Dec 11 00:32:59 2020] [::1]:64064 Closing
+[Fri Dec 11 00:32:59 2020] [::1]:64068 [200]: GET /client.bundle.js
+[Fri Dec 11 00:32:59 2020] [::1]:64068 Closing
+[Fri Dec 11 00:33:05 2020] [::1]:64073 Accepted
+[Fri Dec 11 00:33:05 2020] [::1]:64074 Accepted
+[Fri Dec 11 00:33:06 2020] [::1]:64073 [200]: GET /api
+[Fri Dec 11 00:33:06 2020] [::1]:64073 Closing
+[Fri Dec 11 00:33:06 2020] [::1]:64074 [200]: GET /client.bundle.js
+[Fri Dec 11 00:33:06 2020] [::1]:64074 Closing
+[Fri Dec 11 00:33:35 2020] [::1]:64090 Accepted
+[Fri Dec 11 00:33:35 2020] [::1]:64091 Accepted
+[Fri Dec 11 00:33:35 2020] PHP Fatal error:  Uncaught TypeError: Nebula\Routing\Route::parseControllers(): Return value must be of type array, none returned in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:32
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 32
+[Fri Dec 11 00:33:35 2020] [::1]:64090 [200]: GET /api - Uncaught TypeError: Nebula\Routing\Route::parseControllers(): Return value must be of type array, none returned in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:32
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 32
+[Fri Dec 11 00:33:35 2020] [::1]:64090 Closing
+[Fri Dec 11 00:33:44 2020] [::1]:64097 Accepted
+[Fri Dec 11 00:33:44 2020] [::1]:64091 [200]: GET /api
+[Fri Dec 11 00:33:44 2020] [::1]:64091 Closing
+[Fri Dec 11 00:33:44 2020] [::1]:64097 [200]: GET /client.bundle.js
+[Fri Dec 11 00:33:44 2020] [::1]:64097 Closing
+[Fri Dec 11 00:33:59 2020] [::1]:64107 Accepted
+[Fri Dec 11 00:33:59 2020] [::1]:64108 Accepted
+[Fri Dec 11 00:33:59 2020] PHP Fatal error:  Uncaught Error: Call to undefined method Nebula\Routing\Route::route() in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:41
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(14): Nebula\Routing\Route->dispatch('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 41
+[Fri Dec 11 00:33:59 2020] [::1]:64107 [200]: GET /api - Uncaught Error: Call to undefined method Nebula\Routing\Route::route() in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:41
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(14): Nebula\Routing\Route->dispatch('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 41
+[Fri Dec 11 00:33:59 2020] [::1]:64107 Closing
+[Fri Dec 11 00:34:03 2020] [::1]:64111 Accepted
+[Fri Dec 11 00:34:03 2020] PHP Fatal error:  Uncaught TypeError: Nebula\Routing\Route::dispatch(): Return value must be of type string, none returned in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:43
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(14): Nebula\Routing\Route->dispatch('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 43
+[Fri Dec 11 00:34:03 2020] [::1]:64108 [200]: GET /api - Uncaught TypeError: Nebula\Routing\Route::dispatch(): Return value must be of type string, none returned in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:43
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(14): Nebula\Routing\Route->dispatch('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 43
+[Fri Dec 11 00:34:03 2020] [::1]:64108 Closing
+[Fri Dec 11 00:34:12 2020] [::1]:64117 Accepted
+[Fri Dec 11 00:34:12 2020] [::1]:64111 [200]: GET /api
+[Fri Dec 11 00:34:12 2020] [::1]:64111 Closing
+[Fri Dec 11 00:34:25 2020] [::1]:64131 Accepted
+[Fri Dec 11 00:34:25 2020] [::1]:64117 [200]: GET /api
+[Fri Dec 11 00:34:25 2020] [::1]:64117 Closing
+[Fri Dec 11 00:34:43 2020] [::1]:64140 Accepted
+[Fri Dec 11 00:34:43 2020] [::1]:64131 [200]: GET /api
+[Fri Dec 11 00:34:43 2020] [::1]:64131 Closing
+[Fri Dec 11 00:34:53 2020] [::1]:64147 Accepted
+[Fri Dec 11 00:34:53 2020] [::1]:64140 [200]: GET /api
+[Fri Dec 11 00:34:53 2020] [::1]:64140 Closing
+[Fri Dec 11 00:34:53 2020] [::1]:64147 [200]: GET /client.bundle.js
+[Fri Dec 11 00:34:53 2020] [::1]:64147 Closing
+[Fri Dec 11 00:35:51 2020] [::1]:64179 Accepted
+[Fri Dec 11 00:35:51 2020] [::1]:64180 Accepted
+[Fri Dec 11 00:35:51 2020] PHP Fatal error:  Uncaught Error: Call to undefined method Nebula\Routing\ControllerParser::parseController() in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:48
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(11): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(31): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#4 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:35:51 2020] [::1]:64179 [200]: GET /api - Uncaught Error: Call to undefined method Nebula\Routing\ControllerParser::parseController() in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:48
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(11): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(31): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#4 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:35:51 2020] [::1]:64179 Closing
+[Fri Dec 11 00:35:57 2020] [::1]:64185 Accepted
+[Fri Dec 11 00:35:57 2020] PHP Fatal error:  Uncaught Error: Call to undefined method Nebula\Routing\ControllerParser::parseController() in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:48
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(11): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(31): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#4 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:35:57 2020] [::1]:64180 [200]: GET /api - Uncaught Error: Call to undefined method Nebula\Routing\ControllerParser::parseController() in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:48
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(11): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(31): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#4 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:35:57 2020] [::1]:64180 Closing
+[Fri Dec 11 00:36:09 2020] [::1]:64191 Accepted
+[Fri Dec 11 00:36:09 2020] [::1]:64185 [200]: GET /api
+[Fri Dec 11 00:36:09 2020] [::1]:64185 Closing
+[Fri Dec 11 00:36:09 2020] [::1]:64191 [200]: GET /client.bundle.js
+[Fri Dec 11 00:36:09 2020] [::1]:64191 Closing
+[Fri Dec 11 00:36:16 2020] [::1]:64196 Accepted
+[Fri Dec 11 00:36:16 2020] [::1]:64197 Accepted
+[Fri Dec 11 00:36:16 2020] [::1]:64196 [200]: GET /api
+[Fri Dec 11 00:36:16 2020] [::1]:64196 Closing
+[Fri Dec 11 00:36:16 2020] [::1]:64197 [200]: GET /client.bundle.js
+[Fri Dec 11 00:36:16 2020] [::1]:64197 Closing
+[Fri Dec 11 00:36:31 2020] [::1]:64246 Accepted
+[Fri Dec 11 00:36:31 2020] [::1]:64247 Accepted
+[Fri Dec 11 00:36:31 2020] [::1]:64246 [200]: GET /api
+[Fri Dec 11 00:36:31 2020] [::1]:64246 Closing
+[Fri Dec 11 00:36:31 2020] [::1]:64247 [200]: GET /client.bundle.js
+[Fri Dec 11 00:36:31 2020] [::1]:64247 Closing
+[Fri Dec 11 00:36:46 2020] [::1]:64260 Accepted
+[Fri Dec 11 00:36:46 2020] [::1]:64261 Accepted
+[Fri Dec 11 00:36:46 2020] [::1]:64260 [200]: GET /api
+[Fri Dec 11 00:36:46 2020] [::1]:64260 Closing
+[Fri Dec 11 00:36:46 2020] [::1]:64261 [200]: GET /client.bundle.js
+[Fri Dec 11 00:36:46 2020] [::1]:64261 Closing
+[Fri Dec 11 00:36:49 2020] [::1]:64263 Accepted
+[Fri Dec 11 00:36:49 2020] [::1]:64264 Accepted
+[Fri Dec 11 00:36:49 2020] [::1]:64263 [200]: GET /api
+[Fri Dec 11 00:36:49 2020] [::1]:64263 Closing
+[Fri Dec 11 00:36:49 2020] [::1]:64264 [200]: GET /client.bundle.js
+[Fri Dec 11 00:36:49 2020] [::1]:64264 Closing
+[Fri Dec 11 00:37:11 2020] [::1]:64276 Accepted
+[Fri Dec 11 00:37:11 2020] [::1]:64277 Accepted
+[Fri Dec 11 00:37:11 2020] [::1]:64276 [200]: GET /api
+[Fri Dec 11 00:37:11 2020] [::1]:64276 Closing
+[Fri Dec 11 00:37:11 2020] [::1]:64277 [200]: GET /client.bundle.js
+[Fri Dec 11 00:37:11 2020] [::1]:64277 Closing
+[Fri Dec 11 00:37:37 2020] [::1]:64295 Accepted
+[Fri Dec 11 00:37:37 2020] [::1]:64296 Accepted
+[Fri Dec 11 00:37:37 2020] [::1]:64295 [200]: GET /api
+[Fri Dec 11 00:37:37 2020] [::1]:64295 Closing
+[Fri Dec 11 00:37:37 2020] [::1]:64296 [200]: GET /client.bundle.js
+[Fri Dec 11 00:37:37 2020] [::1]:64296 Closing
+[Fri Dec 11 00:38:17 2020] [::1]:64324 Accepted
+[Fri Dec 11 00:38:17 2020] [::1]:64325 Accepted
+[Fri Dec 11 00:38:17 2020] [::1]:64324 [200]: GET /api
+[Fri Dec 11 00:38:17 2020] [::1]:64324 Closing
+[Fri Dec 11 00:38:17 2020] [::1]:64325 [200]: GET /client.bundle.js
+[Fri Dec 11 00:38:17 2020] [::1]:64325 Closing
+[Fri Dec 11 00:38:42 2020] [::1]:64345 Accepted
+[Fri Dec 11 00:38:42 2020] [::1]:64346 Accepted
+[Fri Dec 11 00:38:42 2020] PHP Warning:  Undefined variable $route in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 17
+[Fri Dec 11 00:38:42 2020] [::1]:64345 [200]: GET /api
+[Fri Dec 11 00:38:42 2020] [::1]:64345 Closing
+[Fri Dec 11 00:38:59 2020] [::1]:64356 Accepted
+[Fri Dec 11 00:38:59 2020] PHP Warning:  Undefined variable $route in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 26
+[Fri Dec 11 00:38:59 2020] PHP Warning:  Trying to access array offset on value of type null in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 26
+[Fri Dec 11 00:38:59 2020] PHP Warning:  Undefined variable $route in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 27
+[Fri Dec 11 00:38:59 2020] PHP Warning:  Trying to access array offset on value of type null in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 27
+[Fri Dec 11 00:38:59 2020] [::1]:64346 [200]: GET /api
+[Fri Dec 11 00:38:59 2020] [::1]:64346 Closing
+[Fri Dec 11 00:39:04 2020] [::1]:64359 Accepted
+[Fri Dec 11 00:39:04 2020] [::1]:64356 [200]: GET /api
+[Fri Dec 11 00:39:04 2020] [::1]:64356 Closing
+[Fri Dec 11 00:40:25 2020] [::1]:64359 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Dec 11 00:40:25 2020] [::1]:64359 Closing
+[Fri Dec 11 00:40:27 2020] [::1]:64411 Accepted
+[Fri Dec 11 00:40:27 2020] [::1]:64412 Accepted
+[Fri Dec 11 00:40:27 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:40:27 2020] [::1]:64411 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:40:27 2020] [::1]:64411 Closing
+[Fri Dec 11 00:40:52 2020] [::1]:64433 Accepted
+[Fri Dec 11 00:40:52 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:40:52 2020] [::1]:64412 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:40:52 2020] [::1]:64412 Closing
+[Fri Dec 11 00:40:53 2020] [::1]:64435 Accepted
+[Fri Dec 11 00:40:53 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:40:53 2020] [::1]:64433 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:40:53 2020] [::1]:64433 Closing
+[Fri Dec 11 00:40:53 2020] [::1]:64436 Accepted
+[Fri Dec 11 00:40:53 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:40:53 2020] [::1]:64435 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:40:53 2020] [::1]:64435 Closing
+[Fri Dec 11 00:41:00 2020] [::1]:64440 Accepted
+[Fri Dec 11 00:41:00 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:41:00 2020] [::1]:64436 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:41:00 2020] [::1]:64436 Closing
+[Fri Dec 11 00:41:01 2020] [::1]:64441 Accepted
+[Fri Dec 11 00:41:01 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:41:01 2020] [::1]:64440 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:41:01 2020] [::1]:64440 Closing
+[Fri Dec 11 00:41:01 2020] [::1]:64443 Accepted
+[Fri Dec 11 00:41:01 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:41:01 2020] [::1]:64441 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:41:01 2020] [::1]:64441 Closing
+[Fri Dec 11 00:41:14 2020] [::1]:64450 Accepted
+[Fri Dec 11 00:41:14 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:41:14 2020] [::1]:64443 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:41:14 2020] [::1]:64443 Closing
+[Fri Dec 11 00:41:27 2020] [::1]:64458 Accepted
+[Fri Dec 11 00:41:27 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:41:27 2020] [::1]:64450 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:41:27 2020] [::1]:64450 Closing
+[Fri Dec 11 00:41:33 2020] [::1]:64462 Accepted
+[Fri Dec 11 00:41:33 2020] [::1]:64458 [200]: GET /
+[Fri Dec 11 00:41:33 2020] [::1]:64458 Closing
+[Fri Dec 11 00:41:39 2020] [::1]:64466 Accepted
+[Fri Dec 11 00:41:39 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:41:39 2020] [::1]:64462 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:41:39 2020] [::1]:64462 Closing
+[Fri Dec 11 00:41:44 2020] [::1]:64469 Accepted
+[Fri Dec 11 00:41:44 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:41:44 2020] [::1]:64466 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:41:44 2020] [::1]:64466 Closing
+[Fri Dec 11 00:41:48 2020] [::1]:64473 Accepted
+[Fri Dec 11 00:41:48 2020] PHP Warning:  Undefined variable $controller in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:41:48 2020] PHP Warning:  Trying to access array offset on value of type null in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:41:48 2020] PHP Warning:  Undefined variable $controller in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:41:48 2020] PHP Warning:  Trying to access array offset on value of type null in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 48
+[Fri Dec 11 00:41:48 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:41:48 2020] [::1]:64469 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:41:48 2020] [::1]:64469 Closing
+[Fri Dec 11 00:41:52 2020] [::1]:64475 Accepted
+[Fri Dec 11 00:41:52 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:41:52 2020] [::1]:64473 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:41:52 2020] [::1]:64473 Closing
+[Fri Dec 11 00:42:03 2020] [::1]:64484 Accepted
+[Fri Dec 11 00:42:03 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:42:03 2020] [::1]:64475 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:42:03 2020] [::1]:64475 Closing
+[Fri Dec 11 00:42:14 2020] [::1]:64490 Accepted
+[Fri Dec 11 00:42:14 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:42:14 2020] [::1]:64484 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:42:14 2020] [::1]:64484 Closing
+[Fri Dec 11 00:42:21 2020] [::1]:64496 Accepted
+[Fri Dec 11 00:42:21 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:42:21 2020] [::1]:64490 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:42:21 2020] [::1]:64490 Closing
+[Fri Dec 11 00:42:44 2020] [::1]:64517 Accepted
+[Fri Dec 11 00:42:44 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:42:44 2020] [::1]:64496 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:42:44 2020] [::1]:64496 Closing
+[Fri Dec 11 00:42:51 2020] [::1]:64521 Accepted
+[Fri Dec 11 00:42:51 2020] [::1]:64517 [200]: GET /
+[Fri Dec 11 00:42:51 2020] [::1]:64517 Closing
+[Fri Dec 11 00:42:51 2020] [::1]:64521 [200]: GET /client.bundle.js
+[Fri Dec 11 00:42:51 2020] [::1]:64521 Closing
+[Fri Dec 11 00:42:53 2020] [::1]:64523 Accepted
+[Fri Dec 11 00:42:53 2020] [::1]:64524 Accepted
+[Fri Dec 11 00:42:53 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:42:53 2020] [::1]:64523 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:42:53 2020] [::1]:64523 Closing
+[Fri Dec 11 00:43:04 2020] [::1]:64529 Accepted
+[Fri Dec 11 00:43:04 2020] [::1]:64524 [200]: GET /
+[Fri Dec 11 00:43:04 2020] [::1]:64524 Closing
+[Fri Dec 11 00:43:04 2020] [::1]:64529 [200]: GET /client.bundle.js
+[Fri Dec 11 00:43:04 2020] [::1]:64529 Closing
+[Fri Dec 11 00:43:25 2020] [::1]:64541 Accepted
+[Fri Dec 11 00:43:25 2020] [::1]:64542 Accepted
+[Fri Dec 11 00:43:25 2020] [::1]:64541 [200]: GET /
+[Fri Dec 11 00:43:25 2020] [::1]:64541 Closing
+[Fri Dec 11 00:43:25 2020] [::1]:64542 [200]: GET /client.bundle.js
+[Fri Dec 11 00:43:25 2020] [::1]:64542 Closing
+[Fri Dec 11 00:43:25 2020] [::1]:64543 Accepted
+[Fri Dec 11 00:43:25 2020] [::1]:64544 Accepted
+[Fri Dec 11 00:43:25 2020] [::1]:64543 [200]: GET /
+[Fri Dec 11 00:43:25 2020] [::1]:64543 Closing
+[Fri Dec 11 00:43:25 2020] [::1]:64544 [200]: GET /client.bundle.js
+[Fri Dec 11 00:43:25 2020] [::1]:64544 Closing
+[Fri Dec 11 00:43:25 2020] [::1]:64545 Accepted
+[Fri Dec 11 00:43:25 2020] [::1]:64546 Accepted
+[Fri Dec 11 00:43:25 2020] [::1]:64545 [200]: GET /
+[Fri Dec 11 00:43:25 2020] [::1]:64545 Closing
+[Fri Dec 11 00:43:25 2020] [::1]:64546 [200]: GET /client.bundle.js
+[Fri Dec 11 00:43:25 2020] [::1]:64546 Closing
+[Fri Dec 11 00:43:25 2020] [::1]:64547 Accepted
+[Fri Dec 11 00:43:25 2020] [::1]:64548 Accepted
+[Fri Dec 11 00:43:25 2020] [::1]:64547 [200]: GET /
+[Fri Dec 11 00:43:25 2020] [::1]:64547 Closing
+[Fri Dec 11 00:43:25 2020] [::1]:64548 [200]: GET /client.bundle.js
+[Fri Dec 11 00:43:25 2020] [::1]:64548 Closing
+[Fri Dec 11 00:43:35 2020] [::1]:64554 Accepted
+[Fri Dec 11 00:43:35 2020] [::1]:64555 Accepted
+[Fri Dec 11 00:43:35 2020] [::1]:64554 [200]: GET /
+[Fri Dec 11 00:43:35 2020] [::1]:64554 Closing
+[Fri Dec 11 00:43:35 2020] [::1]:64555 [200]: GET /client.bundle.js
+[Fri Dec 11 00:43:35 2020] [::1]:64555 Closing
+[Fri Dec 11 00:43:37 2020] [::1]:64564 Accepted
+[Fri Dec 11 00:43:37 2020] [::1]:64565 Accepted
+[Fri Dec 11 00:43:37 2020] PHP Warning:  Undefined variable $uri in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 52
+[Fri Dec 11 00:43:37 2020] PHP Fatal error:  Uncaught TypeError: Nebula\Routing\ControllerParser::convertURI(): Argument #1 ($uri) must be of type string, null given, called in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 52 and defined in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:123
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(52): Nebula\Routing\ControllerParser->convertURI(NULL)
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(11): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(32): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#4 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#5 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 123
+[Fri Dec 11 00:43:37 2020] [::1]:64564 [200]: GET / - Uncaught TypeError: Nebula\Routing\ControllerParser::convertURI(): Argument #1 ($uri) must be of type string, null given, called in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 52 and defined in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php:123
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(52): Nebula\Routing\ControllerParser->convertURI(NULL)
+#1 D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php(11): Nebula\Routing\ControllerParser->run('D:\\Files\\Docume...')
+#2 D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php(32): Nebula\Routing\ControllerParser::parse('D:\\Files\\Docume...')
+#3 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#4 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#5 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\ControllerParser.php on line 123
+[Fri Dec 11 00:43:37 2020] [::1]:64564 Closing
+[Fri Dec 11 00:43:39 2020] [::1]:64568 Accepted
+[Fri Dec 11 00:43:39 2020] [::1]:64565 [200]: GET /
+[Fri Dec 11 00:43:39 2020] [::1]:64565 Closing
+[Fri Dec 11 00:43:39 2020] [::1]:64568 [200]: GET /client.bundle.js
+[Fri Dec 11 00:43:39 2020] [::1]:64568 Closing
+[Fri Dec 11 00:43:44 2020] [::1]:64571 Accepted
+[Fri Dec 11 00:43:44 2020] [::1]:64572 Accepted
+[Fri Dec 11 00:43:44 2020] [::1]:64571 [200]: GET /
+[Fri Dec 11 00:43:44 2020] [::1]:64571 Closing
+[Fri Dec 11 00:43:44 2020] [::1]:64572 [200]: GET /client.bundle.js
+[Fri Dec 11 00:43:44 2020] [::1]:64572 Closing
+[Fri Dec 11 00:43:48 2020] [::1]:64574 Accepted
+[Fri Dec 11 00:43:48 2020] [::1]:64575 Accepted
+[Fri Dec 11 00:43:52 2020] [::1]:64574 [200]: GET /api
+[Fri Dec 11 00:43:52 2020] [::1]:64574 Closing
+[Fri Dec 11 00:43:52 2020] [::1]:64575 [200]: GET /client.bundle.js
+[Fri Dec 11 00:43:52 2020] [::1]:64575 Closing
+[Fri Dec 11 00:43:56 2020] [::1]:64581 Accepted
+[Fri Dec 11 00:43:56 2020] [::1]:64582 Accepted
+[Fri Dec 11 00:43:56 2020] [::1]:64581 [200]: GET /api
+[Fri Dec 11 00:43:56 2020] [::1]:64581 Closing
+[Fri Dec 11 00:43:56 2020] [::1]:64582 [200]: GET /client.bundle.js
+[Fri Dec 11 00:43:56 2020] [::1]:64582 Closing
+[Fri Dec 11 00:44:00 2020] [::1]:64592 Accepted
+[Fri Dec 11 00:44:00 2020] [::1]:64593 Accepted
+[Fri Dec 11 00:44:00 2020] [::1]:64592 [200]: GET /api
+[Fri Dec 11 00:44:00 2020] [::1]:64592 Closing
+[Fri Dec 11 00:44:00 2020] [::1]:64593 [200]: GET /client.bundle.js
+[Fri Dec 11 00:44:00 2020] [::1]:64593 Closing
+[Fri Dec 11 00:44:23 2020] [::1]:64606 Accepted
+[Fri Dec 11 00:44:23 2020] [::1]:64607 Accepted
+[Fri Dec 11 00:44:23 2020] [::1]:64606 [200]: GET /api
+[Fri Dec 11 00:44:23 2020] [::1]:64606 Closing
+[Fri Dec 11 00:44:23 2020] [::1]:64607 [200]: GET /client.bundle.js
+[Fri Dec 11 00:44:23 2020] [::1]:64607 Closing
+[Fri Dec 11 00:44:30 2020] [::1]:64614 Accepted
+[Fri Dec 11 00:44:30 2020] [::1]:64615 Accepted
+[Fri Dec 11 00:44:30 2020] [::1]:64614 [200]: GET /api
+[Fri Dec 11 00:44:30 2020] [::1]:64614 Closing
+[Fri Dec 11 00:44:30 2020] [::1]:64615 [200]: GET /client.bundle.js
+[Fri Dec 11 00:44:30 2020] [::1]:64615 Closing
+[Fri Dec 11 00:44:37 2020] [::1]:64627 Accepted
+[Fri Dec 11 00:44:37 2020] [::1]:64628 Accepted
+[Fri Dec 11 00:44:37 2020] PHP Fatal error:  Uncaught TypeError: Nebula\Routing\Route::dispatch(): Return value must be of type string, null returned in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:42
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(14): Nebula\Routing\Route->dispatch('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 42
+[Fri Dec 11 00:44:37 2020] [::1]:64627 [200]: GET /api - Uncaught TypeError: Nebula\Routing\Route::dispatch(): Return value must be of type string, null returned in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:42
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(14): Nebula\Routing\Route->dispatch('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 42
+[Fri Dec 11 00:44:37 2020] [::1]:64627 Closing
+[Fri Dec 11 00:44:45 2020] [::1]:64634 Accepted
+[Fri Dec 11 00:44:45 2020] PHP Fatal error:  Uncaught TypeError: Nebula\Routing\Route::dispatch(): Return value must be of type string, null returned in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:42
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(14): Nebula\Routing\Route->dispatch('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 42
+[Fri Dec 11 00:44:45 2020] [::1]:64628 [200]: GET /api - Uncaught TypeError: Nebula\Routing\Route::dispatch(): Return value must be of type string, null returned in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:42
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(14): Nebula\Routing\Route->dispatch('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 42
+[Fri Dec 11 00:44:45 2020] [::1]:64628 Closing
+[Fri Dec 11 00:44:58 2020] [::1]:64645 Accepted
+[Fri Dec 11 00:44:58 2020] [::1]:64634 [200]: GET /api
+[Fri Dec 11 00:44:58 2020] [::1]:64634 Closing
+[Fri Dec 11 00:45:01 2020] [::1]:64647 Accepted
+[Fri Dec 11 00:45:01 2020] [::1]:64645 [200]: GET /api
+[Fri Dec 11 00:45:01 2020] [::1]:64645 Closing
+[Fri Dec 11 00:45:01 2020] [::1]:64648 Accepted
+[Fri Dec 11 00:45:02 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:45:02 2020] [::1]:64647 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:31
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 31
+[Fri Dec 11 00:45:02 2020] [::1]:64647 Closing
+[Fri Dec 11 00:45:24 2020] [::1]:64661 Accepted
+[Fri Dec 11 00:45:24 2020] [::1]:64648 [200]: GET /
+[Fri Dec 11 00:45:24 2020] [::1]:64648 Closing
+[Fri Dec 11 00:46:04 2020] [::1]:64692 Accepted
+[Fri Dec 11 00:46:04 2020] PHP Warning:  Trying to access array offset on value of type null in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 27
+[Fri Dec 11 00:46:04 2020] PHP Warning:  Trying to access array offset on value of type null in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 28
+[Fri Dec 11 00:46:04 2020] [::1]:64661 [200]: GET /
+[Fri Dec 11 00:46:04 2020] [::1]:64661 Closing
+[Fri Dec 11 00:46:46 2020] [::1]:64721 Accepted
+[Fri Dec 11 00:46:46 2020] [::1]:64692 [200]: GET /
+[Fri Dec 11 00:46:46 2020] [::1]:64692 Closing
+[Fri Dec 11 00:47:40 2020] [::1]:64756 Accepted
+[Fri Dec 11 00:47:41 2020] [::1]:64721 [200]: GET /
+[Fri Dec 11 00:47:41 2020] [::1]:64721 Closing
+[Fri Dec 11 00:48:35 2020] [::1]:64788 Accepted
+[Fri Dec 11 00:48:35 2020] [::1]:64756 [200]: GET /
+[Fri Dec 11 00:48:35 2020] [::1]:64756 Closing
+[Fri Dec 11 00:48:35 2020] [::1]:64788 [200]: GET /client.bundle.js
+[Fri Dec 11 00:48:35 2020] [::1]:64788 Closing
+[Fri Dec 11 00:48:37 2020] [::1]:64791 Accepted
+[Fri Dec 11 00:48:37 2020] [::1]:64792 Accepted
+[Fri Dec 11 00:48:38 2020] [::1]:64791 [200]: GET /api
+[Fri Dec 11 00:48:38 2020] [::1]:64791 Closing
+[Fri Dec 11 00:48:38 2020] [::1]:64800 Accepted
+[Fri Dec 11 00:48:39 2020] [::1]:64792 [200]: GET /
+[Fri Dec 11 00:48:39 2020] [::1]:64792 Closing
+[Fri Dec 11 00:48:39 2020] [::1]:64800 [200]: GET /client.bundle.js
+[Fri Dec 11 00:48:39 2020] [::1]:64800 Closing
+[Fri Dec 11 00:49:33 2020] [::1]:64829 Accepted
+[Fri Dec 11 00:49:33 2020] [::1]:64830 Accepted
+[Fri Dec 11 00:49:33 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:34
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 34
+[Fri Dec 11 00:49:33 2020] [::1]:64829 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:34
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 34
+[Fri Dec 11 00:49:33 2020] [::1]:64829 Closing
+[Fri Dec 11 00:49:46 2020] [::1]:64844 Accepted
+[Fri Dec 11 00:49:46 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:34
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 34
+[Fri Dec 11 00:49:46 2020] [::1]:64830 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:34
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 34
+[Fri Dec 11 00:49:46 2020] [::1]:64830 Closing
+[Fri Dec 11 00:50:04 2020] [::1]:64854 Accepted
+[Fri Dec 11 00:50:04 2020] PHP Fatal error:  Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:34
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 34
+[Fri Dec 11 00:50:04 2020] [::1]:64844 [200]: GET / - Uncaught TypeError: Cannot assign null to property Nebula\Routing\Route::$controller of type array in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php:34
+Stack trace:
+#0 D:\Files\Documents\Programs\Nebula\.framework\App.php(12): Nebula\Routing\Route->parseControllers('D:\\Files\\Docume...')
+#1 D:\Files\Documents\Programs\Nebula\public\index.php(11): Nebula\App->run('D:\\Files\\Docume...')
+#2 {main}
+  thrown in D:\Files\Documents\Programs\Nebula\.framework\Routing\Route.php on line 34
+[Fri Dec 11 00:50:04 2020] [::1]:64844 Closing
+[Fri Dec 11 00:50:10 2020] [::1]:64858 Accepted
+[Fri Dec 11 00:50:10 2020] [::1]:64854 [200]: GET /
+[Fri Dec 11 00:50:10 2020] [::1]:64854 Closing
+[Fri Dec 11 00:50:10 2020] [::1]:64858 [200]: GET /client.bundle.js
+[Fri Dec 11 00:50:10 2020] [::1]:64858 Closing
+[Fri Dec 11 00:50:20 2020] [::1]:64864 Accepted
+[Fri Dec 11 00:50:20 2020] [::1]:64865 Accepted
+[Fri Dec 11 00:50:20 2020] [::1]:64864 [200]: GET /
+[Fri Dec 11 00:50:20 2020] [::1]:64864 Closing
+[Fri Dec 11 00:50:20 2020] [::1]:64865 [200]: GET /client.bundle.js
+[Fri Dec 11 00:50:20 2020] [::1]:64865 Closing
+[Fri Dec 11 00:50:46 2020] [::1]:64885 Accepted
+[Fri Dec 11 00:50:46 2020] [::1]:64886 Accepted
+[Fri Dec 11 00:50:46 2020] [::1]:64885 [200]: GET /
+[Fri Dec 11 00:50:46 2020] [::1]:64885 Closing
+[Fri Dec 11 00:50:46 2020] [::1]:64886 [200]: GET /client.bundle.js
+[Fri Dec 11 00:50:46 2020] [::1]:64886 Closing
+[Fri Dec 11 00:50:57 2020] [::1]:64893 Accepted
+[Fri Dec 11 00:50:57 2020] [::1]:64894 Accepted
+[Fri Dec 11 00:50:57 2020] [::1]:64893 [200]: GET /
+[Fri Dec 11 00:50:57 2020] [::1]:64893 Closing
+[Fri Dec 11 00:50:57 2020] [::1]:64894 [200]: GET /client.bundle.js
+[Fri Dec 11 00:50:57 2020] [::1]:64894 Closing
+[Fri Dec 11 00:51:01 2020] [::1]:64897 Accepted
+[Fri Dec 11 00:51:01 2020] [::1]:64898 Accepted
+[Fri Dec 11 00:51:01 2020] [::1]:64897 [200]: GET /
+[Fri Dec 11 00:51:01 2020] [::1]:64897 Closing
+[Fri Dec 11 00:51:01 2020] [::1]:64898 [200]: GET /client.bundle.js
+[Fri Dec 11 00:51:01 2020] [::1]:64898 Closing
+[Fri Dec 11 00:51:17 2020] [::1]:64941 Accepted
+[Fri Dec 11 00:51:17 2020] [::1]:64942 Accepted
+[Fri Dec 11 00:51:17 2020] [::1]:64941 [200]: GET /
+[Fri Dec 11 00:51:17 2020] [::1]:64941 Closing
+[Fri Dec 11 00:51:17 2020] [::1]:64942 [200]: GET /client.bundle.js
+[Fri Dec 11 00:51:17 2020] [::1]:64942 Closing
+[Fri Dec 11 00:51:47 2020] [::1]:65022 Accepted
+[Fri Dec 11 00:51:47 2020] [::1]:65023 Accepted
+[Fri Dec 11 00:51:47 2020] PHP Parse error:  Unclosed '{' on line 17 does not match ')' in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 18
+[Fri Dec 11 00:51:47 2020] [::1]:65022 [200]: GET / - Unclosed '{' on line 17 does not match ')' in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 18
+[Fri Dec 11 00:51:47 2020] [::1]:65022 Closing
+[Fri Dec 11 00:51:51 2020] [::1]:65027 Accepted
+[Fri Dec 11 00:51:51 2020] [::1]:65023 [200]: GET /
+[Fri Dec 11 00:51:51 2020] [::1]:65023 Closing
+[Fri Dec 11 00:51:52 2020] [::1]:65027 [200]: GET /client.bundle.js
+[Fri Dec 11 00:51:52 2020] [::1]:65027 Closing
+[Fri Dec 11 00:52:05 2020] [::1]:65035 Accepted
+[Fri Dec 11 00:52:05 2020] [::1]:65036 Accepted
+[Fri Dec 11 00:52:05 2020] [::1]:65035 [200]: GET /
+[Fri Dec 11 00:52:05 2020] [::1]:65035 Closing
+[Fri Dec 11 00:52:05 2020] [::1]:65036 [200]: GET /client.bundle.js
+[Fri Dec 11 00:52:05 2020] [::1]:65036 Closing
+[Fri Dec 11 00:53:25 2020] [::1]:65087 Accepted
+[Fri Dec 11 00:53:25 2020] [::1]:65088 Accepted
+[Fri Dec 11 00:53:25 2020] [::1]:65087 [200]: GET /
+[Fri Dec 11 00:53:25 2020] [::1]:65087 Closing
+[Fri Dec 11 00:53:25 2020] [::1]:65088 [200]: GET /client.bundle.js
+[Fri Dec 11 00:53:25 2020] [::1]:65088 Closing
+[Fri Dec 11 00:55:49 2020] [::1]:65193 Accepted
+[Fri Dec 11 00:55:49 2020] [::1]:65194 Accepted
+[Fri Dec 11 00:55:49 2020] [::1]:65193 [200]: GET /
+[Fri Dec 11 00:55:49 2020] [::1]:65193 Closing
+[Fri Dec 11 00:55:49 2020] [::1]:65194 [200]: GET /client.bundle.js
+[Fri Dec 11 00:55:49 2020] [::1]:65194 Closing
+[Fri Dec 11 00:56:15 2020] [::1]:65212 Accepted
+[Fri Dec 11 00:56:15 2020] [::1]:65213 Accepted
+[Fri Dec 11 00:56:15 2020] [::1]:65212 [200]: GET /
+[Fri Dec 11 00:56:15 2020] [::1]:65212 Closing
+[Fri Dec 11 00:56:16 2020] [::1]:65213 [200]: GET /client.bundle.js
+[Fri Dec 11 00:56:16 2020] [::1]:65213 Closing
+[Fri Dec 11 00:58:31 2020] [::1]:65334 Accepted
+[Fri Dec 11 00:58:31 2020] [::1]:65335 Accepted
+[Fri Dec 11 00:58:31 2020] PHP Warning:  Undefined array key 0 in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 14
+[Fri Dec 11 00:58:31 2020] PHP Warning:  Undefined array key 1 in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 14
+[Fri Dec 11 00:58:31 2020] [::1]:65334 [200]: GET /api
+[Fri Dec 11 00:58:31 2020] [::1]:65334 Closing
+[Fri Dec 11 00:58:31 2020] [::1]:65335 [200]: GET /client.bundle.js
+[Fri Dec 11 00:58:31 2020] [::1]:65335 Closing
+[Fri Dec 11 00:58:35 2020] [::1]:65340 Accepted
+[Fri Dec 11 00:58:35 2020] PHP Warning:  Undefined array key 0 in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 14
+[Fri Dec 11 00:58:35 2020] PHP Warning:  Undefined array key 1 in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 14
+[Fri Dec 11 00:58:35 2020] [::1]:65340 [200]: GET /api
+[Fri Dec 11 00:58:35 2020] [::1]:65340 Closing
+[Fri Dec 11 00:58:35 2020] [::1]:65342 Accepted
+[Fri Dec 11 00:58:35 2020] [::1]:65342 [200]: GET /client.bundle.js
+[Fri Dec 11 00:58:35 2020] [::1]:65342 Closing
+[Fri Dec 11 00:58:43 2020] [::1]:65363 Accepted
+[Fri Dec 11 00:58:43 2020] [::1]:65364 Accepted
+[Fri Dec 11 00:58:43 2020] [::1]:65364 [200]: GET /
+[Fri Dec 11 00:58:43 2020] [::1]:65364 Closing
+[Fri Dec 11 00:58:43 2020] [::1]:65363 [200]: GET /client.bundle.js
+[Fri Dec 11 00:58:43 2020] [::1]:65363 Closing
+[Fri Dec 11 00:58:44 2020] [::1]:65366 Accepted
+[Fri Dec 11 00:58:44 2020] [::1]:65367 Accepted
+[Fri Dec 11 00:58:44 2020] PHP Warning:  Undefined array key 0 in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 14
+[Fri Dec 11 00:58:44 2020] PHP Warning:  Undefined array key 1 in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 14
+[Fri Dec 11 00:58:44 2020] [::1]:65366 [200]: GET /api
+[Fri Dec 11 00:58:44 2020] [::1]:65366 Closing
+[Fri Dec 11 00:58:44 2020] [::1]:65367 [200]: GET /client.bundle.js
+[Fri Dec 11 00:58:44 2020] [::1]:65367 Closing
+[Fri Dec 11 00:59:07 2020] [::1]:49227 Accepted
+[Fri Dec 11 00:59:07 2020] [::1]:49228 Accepted
+[Fri Dec 11 00:59:07 2020] PHP Warning:  Undefined array key 0 in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 14
+[Fri Dec 11 00:59:07 2020] PHP Warning:  Undefined array key 1 in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 14
+[Fri Dec 11 00:59:07 2020] [::1]:49227 [200]: GET /api
+[Fri Dec 11 00:59:07 2020] [::1]:49227 Closing
+[Fri Dec 11 00:59:07 2020] [::1]:49228 [200]: GET /client.bundle.js
+[Fri Dec 11 00:59:07 2020] [::1]:49228 Closing
+[Fri Dec 11 00:59:23 2020] [::1]:49238 Accepted
+[Fri Dec 11 00:59:23 2020] [::1]:49239 Accepted
+[Fri Dec 11 00:59:23 2020] PHP Warning:  Undefined array key 0 in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 15
+[Fri Dec 11 00:59:23 2020] PHP Warning:  Undefined array key 1 in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 15
+[Fri Dec 11 00:59:23 2020] [::1]:49238 [200]: GET /api
+[Fri Dec 11 00:59:23 2020] [::1]:49238 Closing
+[Fri Dec 11 00:59:23 2020] [::1]:49239 [200]: GET /client.bundle.js
+[Fri Dec 11 00:59:23 2020] [::1]:49239 Closing
+[Fri Dec 11 00:59:36 2020] [::1]:49247 Accepted
+[Fri Dec 11 00:59:36 2020] [::1]:49248 Accepted
+[Fri Dec 11 00:59:36 2020] PHP Warning:  Undefined array key 0 in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 15
+[Fri Dec 11 00:59:36 2020] PHP Warning:  Undefined array key 1 in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 15
+[Fri Dec 11 00:59:36 2020] [::1]:49247 [200]: GET /api
+[Fri Dec 11 00:59:36 2020] [::1]:49247 Closing
+[Fri Dec 11 00:59:36 2020] [::1]:49248 [200]: GET /client.bundle.js
+[Fri Dec 11 00:59:36 2020] [::1]:49248 Closing
+[Fri Dec 11 00:59:44 2020] [::1]:49259 Accepted
+[Fri Dec 11 00:59:44 2020] [::1]:49260 Accepted
+[Fri Dec 11 00:59:44 2020] PHP Warning:  Undefined array key 0 in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 15
+[Fri Dec 11 00:59:44 2020] PHP Warning:  Undefined array key 1 in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 15
+[Fri Dec 11 00:59:44 2020] [::1]:49259 [200]: GET /api
+[Fri Dec 11 00:59:44 2020] [::1]:49259 Closing
+[Fri Dec 11 00:59:44 2020] [::1]:49260 [200]: GET /client.bundle.js
+[Fri Dec 11 00:59:44 2020] [::1]:49260 Closing
+[Fri Dec 11 01:00:30 2020] [::1]:49293 Accepted
+[Fri Dec 11 01:00:30 2020] [::1]:49294 Accepted
+[Fri Dec 11 01:00:30 2020] PHP Warning:  Undefined array key 0 in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 15
+[Fri Dec 11 01:00:30 2020] PHP Warning:  Undefined array key 1 in D:\Files\Documents\Programs\Nebula\.framework\Routing\Dispatcher.php on line 15
+[Fri Dec 11 01:00:30 2020] [::1]:49293 [200]: GET /api
+[Fri Dec 11 01:00:30 2020] [::1]:49293 Closing
+[Fri Dec 11 01:00:30 2020] [::1]:49294 [200]: GET /client.bundle.js
+[Fri Dec 11 01:00:30 2020] [::1]:49294 Closing
+[Fri Dec 11 01:00:58 2020] [::1]:49318 Accepted
+[Fri Dec 11 01:00:58 2020] [::1]:49319 Accepted
+[Fri Dec 11 01:00:58 2020] [::1]:49318 [200]: GET /api
+[Fri Dec 11 01:00:58 2020] [::1]:49318 Closing
+[Fri Dec 11 01:01:03 2020] [::1]:49322 Accepted
+[Fri Dec 11 01:01:03 2020] [::1]:49319 [200]: GET /api
+[Fri Dec 11 01:01:03 2020] [::1]:49319 Closing
+[Fri Dec 11 01:01:27 2020] [::1]:49336 Accepted
+[Fri Dec 11 01:01:27 2020] [::1]:49322 [200]: GET /api
+[Fri Dec 11 01:01:27 2020] [::1]:49322 Closing
+[Fri Dec 11 01:02:29 2020] [::1]:49336 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Dec 11 01:02:29 2020] [::1]:49336 Closing
+[Fri Dec 11 01:09:20 2020] [::1]:49692 Accepted
+[Fri Dec 11 01:09:20 2020] [::1]:49693 Accepted
+[Fri Dec 11 01:09:20 2020] [::1]:49692 [200]: GET /api
+[Fri Dec 11 01:09:20 2020] [::1]:49692 Closing
+^C
