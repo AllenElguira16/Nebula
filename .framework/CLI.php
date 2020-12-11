@@ -27,7 +27,7 @@ class CLI {
             exec($cmd . " 2> logs/server-logs.txt &");
         }
 
-
+        Console::clear();
         Console::log("Localhost started on port {$PORT}");
 
         execInBackground("php.exe -S localhost:{$PORT} -t ./public");

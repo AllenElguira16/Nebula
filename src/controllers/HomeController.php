@@ -12,8 +12,6 @@ class HomeController {
 
     #[Get()]
     public function hello(Request $request, Response $response) {
-
-
         return $response->send([
             'hello' => 'world'
         ]);
@@ -21,6 +19,6 @@ class HomeController {
 
     #[Get('hello')]
     public function helloWorld() {
-        return 'ggxd';
+        return 'Hello World';
     }
 }

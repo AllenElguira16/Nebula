@@ -7,12 +7,12 @@ use Nebula\Http\{Request, Response};
 class Dispatcher {
 
     /**
-     * @param App\Controllers\* $controller
+     * @param array $controller
      * @param string $directory
+     * @return false|mixed|string
      */
-    public static function dispatch ($controller, $directory) {
-        $name = $controller['name'];
-        $method = $controller['method'];
+    public static function dispatch (array $controller, string $directory) {
+        ['name' => $name, 'method' => $method] = $controller;
         $request = new Request();
         $response = new Response();
         try {

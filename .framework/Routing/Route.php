@@ -8,12 +8,9 @@ class Route {
     /**
      * Stores matched route
      */
-    private ?array $controller = [
-        'name' => null,
-        'method' => null
-    ];
+    private array $controller = [];
 
-    private static $instance = null;
+    private static ?Route $instance = null;
 
     /**
      * Instance of Route
@@ -33,7 +30,11 @@ class Route {
      * @param string $directory root directory
      */
     public function parseControllers(string $directory): void {
-        $this->controller = ControllerParser::parse($directory);
+        $controller = ControllerParser::parse($directory);
+        $this->controller = $controller !== null ? $controller : [
+            'name' => null,
+            'method' => null
+        ];
     }
 
     /**

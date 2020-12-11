@@ -10,8 +10,8 @@ const App: React.FC = () => {
       </div>
       <div className="App-intro">
         <p>Controllers are served in <code><a href="/api">/api</a></code></p>
+        <p>To get started, edit <code>app\views\App.tsx</code> and save.</p>
       </div>
-        {/* To get started, edit <code>app\views\App.tsx</code> and save. */}
     </div>
   )
 };

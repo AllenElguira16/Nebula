@@ -17,8 +17,9 @@ class Request {
 
     /**
      * Returns current URI
-     * 
-     * @param bool $type 
+     *
+     * @param bool $type
+     * @return array|false|int|mixed|string|null
      */
     public static function URI($type = false) {
         return $type === true ? $_SERVER["REQUEST_URI"] : parse_url($_SERVER["REQUEST_URI"], PHP_URL_PATH);
@@ -31,9 +32,11 @@ class Request {
     public static function requestMethod() {
         return $_SERVER['REQUEST_METHOD'];
     }
-    
+
     /**
      * Get params from body
+     * @param null $key
+     * @return array|mixed
      */
     public function bodyParams($key = null) {
         return RequestBag::get('body', $key);
@@ -41,6 +44,8 @@ class Request {
 
     /**
      * Get params from named path parameters
+     * @param null $key
+     * @return array|mixed
      */
     public function pathParams($key = null) {
         return RequestBag::get('path', $key);

@@ -8,6 +8,8 @@ class App {
 
     /**
      * Dispatch Route
+     * @param string $directory
+     * @return string
      */
     function run(string $directory) {
         $route = Route::instance();

@@ -1,5 +1,7 @@
 <?php
 
+namespace Nebula\Http;
+
 class RequestBag {
     private static ?RequestBag $instance = null;
     private array $store = [];
@@ -24,9 +26,10 @@ class RequestBag {
 
     /**
      * Get params
-     * 
+     *
      * @param string $type Body | Params
-     * @param string|null $key 
+     * @param string|null $key
+     * @return array|mixed
      */
     public static function get(string $type, string $key = null) {
         $self = self::instance();

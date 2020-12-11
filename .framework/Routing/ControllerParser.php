@@ -8,6 +8,8 @@ use Nebula\Http\{Request, Response, ResponseBag};
 class ControllerParser{
     /**
      * Parse Controller entry point
+     * @param $directory
+     * @return mixed
      */
     public static function parse($directory) {
         $self = new ControllerParser();
@@ -16,6 +18,8 @@ class ControllerParser{
 
     /**
      * Run parser
+     * @param $directory
+     * @return mixed
      */
     public function run($directory) {
         foreach($this->parseControllers($directory) as $parsedController) {
@@ -33,6 +37,9 @@ class ControllerParser{
 
     /**
      * Parse Controllers
+     * @param $directory
+     * @return array
+     * @throws \ReflectionException
      */
     private function parseControllers($directory) {
         $controllerFileNames = array_values(array_diff(scandir($directory . '/src/controllers'), ['..', '.']));
@@ -59,6 +66,10 @@ class ControllerParser{
 
     /**
      * Parse Routes
+     * @param $controller
+     * @param $methods
+     * @param $prefix
+     * @return array
      */
     private function parseRoute($controller, $methods, $prefix) {
         foreach($methods as $method) {
@@ -83,6 +94,7 @@ class ControllerParser{
 
     /**
      * Store path params to RequestBag
+     * @param $matches
      */
     private function store($matches) {
         foreach ($matches as $key => $match) {
